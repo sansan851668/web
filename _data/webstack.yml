@@ -77,6 +77,10 @@
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E5%9C%B0%E7%90%83.png
       url: http://bzdt.ch.mnr.gov.cn/
       description: 官方地图信息
+    - title: docsmall
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/docsmall.png
+      url: https://docsmall.com/
+      description: 在线文件处理工具
 
 - name: Code
   icon: linecons-thumbs-up
