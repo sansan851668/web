@@ -1,6 +1,6 @@
 - name: 常用
   icon: linecons-star
-  links: 
+  links:
     - title: Github
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
       url: https://github.com/
@@ -40,7 +40,7 @@
 
 - name: Something
   icon: linecons-thumbs-up
-  links: 
+  links:
     - title: Topbook
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/topbook.png
       url: https://topbook.cc/
@@ -81,11 +81,15 @@
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/docsmall.png
       url: https://docsmall.com/
       description: 在线文件处理工具
+    - title: 迷雾通
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/docsmall.png
+      url: https://geph.io/
+      description: 上屋顶用的
 
 - name: Code
   icon: linecons-thumbs-up
-  links: 
-  sub: 
+  links:
+  sub:
     - name: 常用网页
       links:
         - title: 阿里云
@@ -123,7 +127,7 @@
 
 - name: 书影音
   icon: linecons-doc
-  sub: 
+  sub:
     - name: 书
       links:
         - title: 豆瓣读书
@@ -138,7 +142,7 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
           url: https://haizi.huhaitai.com/
           description: 坐在纸箱上想起疯了的朋友们
-      
+
     - name: 影
       links:
         - title: 豆瓣电影
@@ -172,10 +176,10 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/QQ%E9%9F%B3%E4%B9%90.png
           url: https://y.qq.com/
           description: 我常听的音乐平台。
-    
+
 - name: 设计
   icon: linecons-lightbulb
-  sub: 
+  sub:
     - name: 素材资源
       links:
         - title: iconfont
@@ -213,7 +217,7 @@
         - title: OfficePLUS
           url: http://www.officeplus.cn/Template/Home.shtml
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！    
+          description: OfficePLUS，微软Office官方在线模板网站！
 
     - name: 参考教学
       links:
@@ -238,7 +242,7 @@
         - title: RGB颜色
           url: https://www.sioe.cn/yingyong/yanse-rgb-16/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
-          description: RGB颜色值与十六进制颜色码转换工具    
+          description: RGB颜色值与十六进制颜色码转换工具
     - name: 字体
       links:
         - title: 方正字库
@@ -253,10 +257,10 @@
           url: http://www.zfont.cn/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/zfont.png
           description: 免费商用字体网站
-          
+
 - name: 软件
   icon: linecons-lightbulb
-  sub: 
+  sub:
     - name: 实用工具
       links:
         - title: 7-Zip
@@ -274,11 +278,7 @@
         - title: Snipaste
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/snipaste.svg
           url: https://www.snipaste.com/
-          description: 超好用的截图软件    
-        - title: Snipaste
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/snipaste.png
-          url: https://www.snipaste.com/
-          description: 超好用的截图软件           
+          description: 超好用的截图软件
     - name: 电脑美化
       links:
         - title: Fences
@@ -288,4 +288,10 @@
         - title: Groupy
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Groupy.png
           url: https://www.stardock.com/products/groupy/
-          description: 任务窗口合并    
+          description: 任务窗口合并
+    - name: 设计工具
+      links:
+        - title: Imagine
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Imagine.png
+          url: https://github.com/meowtec/Imagine/releases
+          description: 图片压缩工具
