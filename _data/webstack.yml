@@ -267,3 +267,13 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/todo.png
           url: https://todo.microsoft.com/
           description: 让你从工作到娱乐都保持专注
+    - name: 电脑美化
+      links:
+        - title: Fences
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/fence.png
+          url: https://www.stardock.com/products/fences4/
+          description: 自动组织桌面应用程序，文件和文件夹。
+        - title: Groupy
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Groupy.png
+          url: https://www.stardock.com/products/groupy/
+          description: 任务窗口合并    
