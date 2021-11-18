@@ -253,3 +253,17 @@
           url: http://www.zfont.cn/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/zfont.png
           description: 免费商用字体网站
+          
+- name: 软件
+  icon: linecons-lightbulb
+  sub: 
+    - name: 实用工具
+      links:
+        - title: 7-Zip
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/7zip.png
+          url: https://www.7-zip.org/
+          description: 好用的解压软件
+        - title: 7-Zip
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/7zip.png
+          url: https://www.7-zip.org/
+          description: 好用的解压软件
