@@ -1,0 +1,244 @@
+- name: 常用
+  icon: linecons-star
+  links: 
+    - title: Github
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
+      url: https://github.com/
+      description: 全球最大同性交友网站。
+    - title: Unsplash
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
+      url: https://unsplash.com/
+      description: 一个免费的照片共享网站。
+    - title: Youtube
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/youtube.png
+      url: https://www.youtube.com/
+      description: 目前全球最大的视频搜索和分享平台。
+    - title: Google
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/google.png
+      url: https://www.google.com/
+      description: 互联网上最大、影响最广泛的搜索引擎。
+    - title: 豆瓣
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3.png
+      url: https://www.douban.com/
+      description: 致力于帮助发现生活中有用以及有趣的事物。
+    - title: 知乎
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%9F%A5%E4%B9%8E.png
+      url: https://www.zhihu.com/
+      description: 分享你刚编的故事~
+    - title: 谷歌翻译
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GoogleTranslate.png
+      url: https://translate.google.cn/
+      description: 较为靠谱的翻译工具。
+    - title: 菜鸟教程
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/runoob..png
+      url: https://www.runoob.com/
+      description: 编程菜鸟在这里（我）
+    - title: 海子的诗
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
+      url: http://haizi.ning0.top/
+      description: 我自己整理的
+
+- name: Something
+  icon: linecons-thumbs-up
+  links: 
+    - title: Topbook
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/topbook.png
+      url: https://topbook.cc/
+      description: 高效视频生活书。
+    - title: 白描OCR
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%99%BD%E6%8F%8F.png
+      url: https://web.baimiaoapp.com/
+      description: 还不错的在线OCR。
+    - title: 小鸡词典
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/jikipedia.jpg
+      url: https://jikipedia.com/
+      description: out了？在这查网络流行语
+    - title: 句子控
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E5%8F%A5%E5%AD%90%E6%8E%A7.png
+      url: https://www.juzikong.com/
+      description: 收集与分享你喜欢的句子。
+
+
+
+    - title: Mixlr
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Mixlr.png
+      url: http://mixlr.com/
+      description: 偷听演唱会的地方。
+    - title: 问卷星
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/wjx.png
+      url: https://www.wjx.cn/
+      description: 用这个做问卷吧
+    - title: 网易云游戏平台
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/wygame.png
+      url: https://cg.163.com/
+      description: 每天两小时，不香吗？
+    - title: 华为云
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/huawei.png
+      url: https://cloud.huawei.com/
+      description: 我用来找手机的。
+
+- name: Code
+  icon: linecons-thumbs-up
+  links: 
+  sub: 
+    - name: 常用网页
+      links:
+        - title: 阿里云
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/alicloud.png
+          url: https://www.aliyun.com/
+          description: 全球领先的云计算及人工智能科技公司。
+        - title: 腾讯云
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Tencentcloud.png
+          url: https://cloud.tencent.com/
+          description: 为数百万的企业和开发者提供安全稳定的云计算服务。
+        - title: 微信开放社区
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/weixindeveloper.png
+          url: https://developers.weixin.qq.com/
+          description: 微信相关开发交流社区。
+        - title: W3School
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/w3s.png
+          url: https://www.w3school.com.cn/
+          description: 领先的Web技术教程。
+        - title: 菜鸟教程
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/runoob..png
+          url: https://www.runoob.com/
+          description: 编程菜鸟在这里（我）
+        - title: Gitee
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/gitee.png
+          url: https://gitee.com/
+          description: 码云，开源中国推出的基于Git的代码托管服务。
+        - title: Github
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
+          url: https://github.com/
+          description: 全球最大同性交友网站。
+        - title: Coding
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/coding.png
+          url: https://coding.net/
+          description: 一站式软件研发管理协作平台。
+
+- name: 书影音
+  icon: linecons-doc
+  sub: 
+    - name: 书
+      links:
+        - title: 豆瓣读书
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6.png
+          url: https://book.douban.com/
+          description: 记录你读过的、想读和正在读的书。
+        - title: 海子的诗
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
+          url: http://haizi.ning0.top/
+          description: 我自己整理的
+        - title: 海子诗全编
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
+          url: https://haizi.huhaitai.com/
+          description: 坐在纸箱上想起疯了的朋友们
+      
+    - name: 影
+      links:
+        - title: 豆瓣电影
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1.png
+          url: https://movie.douban.com/
+          description: 影迷发烧友后花园！
+        - title: IMDB
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/IMDb.png
+          url: https://www.imdb.com/
+          description: 有时候也需要看看歪果仁的评价！
+        - title: 爱奇艺
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%88%B1%E5%A5%87%E8%89%BA.png
+          url: https://www.iqiyi.com/
+          description: 百度系视频网站。
+        - title: Bilibili
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/bilibili.png
+          url: https://www.bilibili.com/
+          description: 亁杯！
+        - title: 腾讯视频
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.png
+          url: https://v.qq.com/
+          description: 独家视频真的让人头大啊！
+        - title: 优酷
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E4%BC%98%E9%85%B7.png
+          url: https://www.youku.com/
+          description: 阿里系视频网站。
+
+    - name: 音
+      links:
+        - title: QQ音乐
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/QQ%E9%9F%B3%E4%B9%90.png
+          url: https://y.qq.com/
+          description: 我常听的音乐平台。
+    
+- name: 设计
+  icon: linecons-lightbulb
+  sub: 
+    - name: 素材资源
+      links:
+        - title: iconfont
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
+          url: http://www.iconfont.cn/
+          description: 阿里巴巴矢量图标库
+        - title: Easyicon
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/easyicon.png
+          url: http://www.easyicon.net/
+          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+        - title: Unsplash
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
+          url: https://unsplash.com/
+          description: 一个免费的照片共享网站。
+        - title: Pinterest
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/pinterest.png
+          url: https://www.pinterest.com/
+          description: 全球美图收藏采集站
+        - title: 千图网
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/qiantu.png
+          url: http://www.58pic.com/
+          description: 专注免费设计素材下载的网站
+        - title: 千库网
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/qianku.png
+          url: http://588ku.com/
+          description: 免费png图片背景素材下载
+        - title: 我图网
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/wotu.png
+          url: http://www.ooopic.com/
+          description: 我图网,提供图片素材及模板下载,
+        - title: pixabay
+          url: https://pixabay.com/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/pixabay.png
+          description: 可在任何地方使用的免费图片和视频
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/officeplus.png
+          description: OfficePLUS，微软Office官方在线模板网站！    
+        - title: 方正字库
+          url: http://www.foundertype.com/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/Fondertype.png
+          description: 方正字库官方网站
+        - title: 字体传奇网
+          url: http://ziticq.com/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/ziticq.png
+          description: 中国首个字体品牌设计师交流网
+
+    - name: 参考教学
+      links:
+        - title: doyoudo
+          url: http://doyoudo.com/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/doyoudo.png
+          description: 创意设计软件学习平台
+        - title: 站酷
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/zcool.png
+          url: https://www.zcool.com.cn/
+          description: 中国人气设计师互动平台
+        - title: 花瓣
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/huaban.png
+          url: https://huaban.com/
+          description: 收集灵感,保存有用的素材
+    - name: 工具及其他
+      links:
+        - title: colorhunt
+          url: http://www.colorhunt.co/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/colorhunt.png
+          description: 配色网站
+        - title: RGB颜色
+          url: https://www.sioe.cn/yingyong/yanse-rgb-16/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
+          description: RGB颜色值与十六进制颜色码转换工具
