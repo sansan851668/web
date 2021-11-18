@@ -135,7 +135,7 @@ layout: webcollect
     {% for category in site.data.webstack %}
         {% if category.sub %}
             {% for sub_category in category.sub %}
-            <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="{{ sub_category.name }}"></i>{{ sub_category.name }}</h4>
+            <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="{{ sub_category.name }}"></i>{{ category.name }}·{{ sub_category.name }}</h4>
             <div class="row">
                 {% for link in sub_category.links %}
                 <div class="col-sm-3">
