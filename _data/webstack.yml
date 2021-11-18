@@ -271,6 +271,14 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/IObitUninstaller.png
           url: https://www.iobit.com/en/advanceduninstaller.php
           description: 简单专业的强力卸载软件
+        - title: Snipaste
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/snipaste.svg
+          url: https://www.snipaste.com/
+          description: 超好用的截图软件    
+        - title: Snipaste
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/snipaste.png
+          url: https://www.snipaste.com/
+          description: 超好用的截图软件           
     - name: 电脑美化
       links:
         - title: Fences
