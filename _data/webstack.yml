@@ -85,7 +85,11 @@
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/geph.png
       url: https://geph.io/
       description: 上屋顶用的
-
+    - title: 智能法律咨询
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E4%B8%AD%E5%9B%BD%E5%8F%B8%E6%B3%95.png
+      url: https://ai.12348.gov.cn
+      description: 中国法律服务网
+      
 - name: Code
   icon: linecons-thumbs-up
   links:
