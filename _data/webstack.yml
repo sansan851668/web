@@ -39,7 +39,7 @@
       description: 我自己整理的
 
 - name: Something
-  icon: linecons-thumbs-up
+  icon: linecons-lightbulb
   links:
     - title: Topbook
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/topbook.png
@@ -90,11 +90,96 @@
       url: https://ai.12348.gov.cn
       description: 中国法律服务网
       
+- name: 设计
+  icon: linecons-pencil
+  sub:
+    - name: 素材资源
+      links:
+        - title: iconfont
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
+          url: http://www.iconfont.cn/
+          description: 阿里巴巴矢量图标库
+        - title: Easyicon
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/easyicon.png
+          url: http://www.easyicon.net/
+          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+        - title: Unsplash
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
+          url: https://unsplash.com/
+          description: 一个免费的照片共享网站。
+        - title: Pinterest
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/pinterest.png
+          url: https://www.pinterest.com/
+          description: 全球美图收藏采集站
+        - title: 千图网
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/qiantu.png
+          url: http://www.58pic.com/
+          description: 专注免费设计素材下载的网站
+        - title: 千库网
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/qianku.png
+          url: http://588ku.com/
+          description: 免费png图片背景素材下载
+        - title: 我图网
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/wotu.png
+          url: http://www.ooopic.com/
+          description: 我图网,提供图片素材及模板下载,
+        - title: pixabay
+          url: https://pixabay.com/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/pixabay.png
+          description: 可在任何地方使用的免费图片和视频
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/officeplus.png
+          description: OfficePLUS，微软Office官方在线模板网站！
+
+    - name: 参考教学
+      links:
+        - title: doyoudo
+          url: http://doyoudo.com/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/doyoudo.png
+          description: 创意设计软件学习平台
+        - title: 站酷
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/zcool.png
+          url: https://www.zcool.com.cn/
+          description: 中国人气设计师互动平台
+        - title: 花瓣
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/huaban.png
+          url: https://huaban.com/
+          description: 收集灵感,保存有用的素材
+    - name: 颜色
+      links:
+        - title: colorhunt
+          url: http://www.colorhunt.co/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/colorhunt.png
+          description: 配色网站
+        - title: RGB颜色
+          url: https://www.sioe.cn/yingyong/yanse-rgb-16/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
+          description: RGB颜色值与十六进制颜色码转换工具
+    - name: 字体
+      links:
+        - title: 收集字体
+          url: http://ning0.top/2021-11-18-Fonts
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/fonts.png
+          description: 自己收集的一些字体
+        - title: 方正字库
+          url: http://www.foundertype.com/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/Fondertype.png
+          description: 方正字库官方网站
+        - title: 字体传奇网
+          url: http://ziticq.com/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/ziticq.png
+          description: 中国首个字体品牌设计师交流网
+        - title: 找字体
+          url: http://www.zfont.cn/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/zfont.png
+          description: 免费商用字体网站
+
 - name: Code
   icon: linecons-database
   links:
   sub:
-    - name: 常用网页
+    - name: 编程常用
       links:
         - title: 阿里云
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/alicloud.png
@@ -181,90 +266,6 @@
           url: https://y.qq.com/
           description: 我常听的音乐平台。
 
-- name: 设计
-  icon: linecons-pencil
-  sub:
-    - name: 素材资源
-      links:
-        - title: iconfont
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
-          url: http://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库
-        - title: Easyicon
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-        - title: Unsplash
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
-          url: https://unsplash.com/
-          description: 一个免费的照片共享网站。
-        - title: Pinterest
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/pinterest.png
-          url: https://www.pinterest.com/
-          description: 全球美图收藏采集站
-        - title: 千图网
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站
-        - title: 千库网
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/qianku.png
-          url: http://588ku.com/
-          description: 免费png图片背景素材下载
-        - title: 我图网
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/wotu.png
-          url: http://www.ooopic.com/
-          description: 我图网,提供图片素材及模板下载,
-        - title: pixabay
-          url: https://pixabay.com/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/pixabay.png
-          description: 可在任何地方使用的免费图片和视频
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
-
-    - name: 参考教学
-      links:
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/doyoudo.png
-          description: 创意设计软件学习平台
-        - title: 站酷
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/zcool.png
-          url: https://www.zcool.com.cn/
-          description: 中国人气设计师互动平台
-        - title: 花瓣
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/huaban.png
-          url: https://huaban.com/
-          description: 收集灵感,保存有用的素材
-    - name: 颜色
-      links:
-        - title: colorhunt
-          url: http://www.colorhunt.co/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/colorhunt.png
-          description: 配色网站
-        - title: RGB颜色
-          url: https://www.sioe.cn/yingyong/yanse-rgb-16/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
-          description: RGB颜色值与十六进制颜色码转换工具
-    - name: 字体
-      links:
-        - title: 收集字体
-          url: http://ning0.top/2021-11-18-Fonts
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/fonts.png
-          description: 自己收集的一些字体
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/Fondertype.png
-          description: 方正字库官方网站
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/ziticq.png
-          description: 中国首个字体品牌设计师交流网
-        - title: 找字体
-          url: http://www.zfont.cn/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/zfont.png
-          description: 免费商用字体网站
 
 - name: 软件
   icon: linecons-desktop
