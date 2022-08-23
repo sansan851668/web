@@ -91,7 +91,7 @@
       description: 中国法律服务网
       
 - name: Code
-  icon: linecons-thumbs-up
+  icon: linecons-database
   links:
   sub:
     - name: 常用网页
@@ -130,7 +130,7 @@
           description: 一站式软件研发管理协作平台。
 
 - name: 书影音
-  icon: linecons-doc
+  icon: linecons-music
   sub:
     - name: 书
       links:
@@ -182,7 +182,7 @@
           description: 我常听的音乐平台。
 
 - name: 设计
-  icon: linecons-lightbulb
+  icon: linecons-pencil
   sub:
     - name: 素材资源
       links:
@@ -267,7 +267,7 @@
           description: 免费商用字体网站
 
 - name: 软件
-  icon: linecons-lightbulb
+  icon: linecons-desktop
   sub:
     - name: 实用工具
       links:
