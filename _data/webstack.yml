@@ -38,58 +38,6 @@
       url: http://haizi.ning0.top/
       description: 我自己整理的
 
-- name: Something
-  icon: linecons-lightbulb
-  links:
-    - title: Topbook
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/topbook.png
-      url: https://topbook.cc/
-      description: 高效视频生活书。
-    - title: 白描OCR
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%99%BD%E6%8F%8F.png
-      url: https://web.baimiaoapp.com/
-      description: 还不错的在线OCR。
-    - title: 小鸡词典
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/jikipedia.jpg
-      url: https://jikipedia.com/
-      description: out了？在这查网络流行语
-    - title: 句子控
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E5%8F%A5%E5%AD%90%E6%8E%A7.png
-      url: https://www.juzikong.com/
-      description: 收集与分享你喜欢的句子。
-    - title: Mixlr
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Mixlr.png
-      url: http://mixlr.com/
-      description: 偷听演唱会的地方。
-    - title: 问卷星
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/wjx.png
-      url: https://www.wjx.cn/
-      description: 用这个做问卷吧
-    - title: 网易云游戏平台
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/wygame.png
-      url: https://cg.163.com/
-      description: 每天两小时，不香吗？
-    - title: 华为云
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/huawei.png
-      url: https://cloud.huawei.com/
-      description: 我用来找手机的。
-    - title: 标准地图服务
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E5%9C%B0%E7%90%83.png
-      url: http://bzdt.ch.mnr.gov.cn/
-      description: 官方地图信息
-    - title: docsmall
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/docsmall.png
-      url: https://docsmall.com/
-      description: 在线文件处理工具
-    - title: 迷雾通
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/geph.png
-      url: https://geph.io/
-      description: 上屋顶用的
-    - title: 智能法律咨询
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E4%B8%AD%E5%9B%BD%E5%8F%B8%E6%B3%95.png
-      url: https://ai.12348.gov.cn
-      description: 中国法律服务网
-      
 - name: 设计
   icon: linecons-pencil
   sub:
@@ -131,6 +79,14 @@
           url: http://www.officeplus.cn/Template/Home.shtml
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/officeplus.png
           description: OfficePLUS，微软Office官方在线模板网站！
+        - title: Ant Design Vue
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/antdv.ico
+          url: https://www.antdv.com/
+          description: 网页设计基础UI组件
+        - title: Dribbble
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/default.png
+          url: https://dribbble.com/
+          description: Discover the World’s Top Designers & Creative Professionals
 
     - name: 参考教学
       links:
@@ -146,6 +102,18 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/huaban.png
           url: https://huaban.com/
           description: 收集灵感,保存有用的素材
+
+    - name: 工具平台
+      links:
+        - title: 蓝湖
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/lanhu.ico
+          url: https://lanhuapp.com/
+          description: 高效的产品设计协作平台
+        - title: Axhub
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/favicon.ico
+          url: https://axhub.im/
+          description: Axure原型托管与协作平台
+
     - name: 颜色
       links:
         - title: colorhunt
@@ -156,6 +124,7 @@
           url: https://www.sioe.cn/yingyong/yanse-rgb-16/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
           description: RGB颜色值与十六进制颜色码转换工具
+
     - name: 字体
       links:
         - title: 收集字体
@@ -214,6 +183,58 @@
           url: https://coding.net/
           description: 一站式软件研发管理协作平台。
 
+- name: Something
+  icon: linecons-lightbulb
+  links:
+    - title: Topbook
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/topbook.png
+      url: https://topbook.cc/
+      description: 高效视频生活书。
+    - title: 白描OCR
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%99%BD%E6%8F%8F.png
+      url: https://web.baimiaoapp.com/
+      description: 还不错的在线OCR。
+    - title: 小鸡词典
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/jikipedia.jpg
+      url: https://jikipedia.com/
+      description: out了？在这查网络流行语
+    - title: 句子控
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E5%8F%A5%E5%AD%90%E6%8E%A7.png
+      url: https://www.juzikong.com/
+      description: 收集与分享你喜欢的句子。
+    - title: Mixlr
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Mixlr.png
+      url: http://mixlr.com/
+      description: 偷听演唱会的地方。
+    - title: 问卷星
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/wjx.png
+      url: https://www.wjx.cn/
+      description: 用这个做问卷吧
+    - title: 网易云游戏平台
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/wygame.png
+      url: https://cg.163.com/
+      description: 每天两小时，不香吗？
+    - title: 华为云
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/huawei.png
+      url: https://cloud.huawei.com/
+      description: 我用来找手机的。
+    - title: 标准地图服务
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E5%9C%B0%E7%90%83.png
+      url: http://bzdt.ch.mnr.gov.cn/
+      description: 官方地图信息
+    - title: docsmall
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/docsmall.png
+      url: https://docsmall.com/
+      description: 在线文件处理工具
+    - title: 迷雾通
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/geph.png
+      url: https://geph.io/
+      description: 上屋顶用的
+    - title: 智能法律咨询
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E4%B8%AD%E5%9B%BD%E5%8F%B8%E6%B3%95.png
+      url: https://ai.12348.gov.cn
+      description: 中国法律服务网
+
 - name: 书影音
   icon: linecons-music
   sub:
@@ -266,7 +287,6 @@
           url: https://y.qq.com/
           description: 我常听的音乐平台。
 
-
 - name: 软件
   icon: linecons-desktop
   sub:
@@ -288,6 +308,11 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/snipaste.png
           url: https://www.snipaste.com/
           description: 超好用的截图软件
+        - title: Typora
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Typora.png
+          url: https://typoraio.cn/
+          description: 一款很好用的MarkDown编辑器
+
     - name: 电脑美化
       links:
         - title: Fences
