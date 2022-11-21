@@ -4,7 +4,7 @@
     - title: Github
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
       url: https://github.com/
-      description: 全球最大同性交友网站。
+      description: 一个面向开源及私有软件项目的托管平台。
     - title: Unsplash
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
       url: https://unsplash.com/
@@ -102,6 +102,10 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/huaban.png
           url: https://huaban.com/
           description: 收集灵感,保存有用的素材
+        - title: 标志情报局
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/default.png
+          url: https://www.logonews.cn/
+          description:           
 
     - name: 工具平台
       links:
@@ -177,7 +181,7 @@
         - title: Github
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
           url: https://github.com/
-          description: 全球最大同性交友网站。
+          description: 一个面向开源及私有软件项目的托管平台。
         - title: Coding
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/coding.png
           url: https://coding.net/
