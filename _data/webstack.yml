@@ -1,4 +1,4 @@
-- name: 科技论文写作
+- name: 常用
   icon: linecons-star
   links:
     - title: 中国海洋大学信息门户
@@ -47,7 +47,7 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3.png
           url: http://libgen.rs/
           description: 国外的书籍来这里检索，几乎都有。          
-  
+
         - title: iconfont
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
           url: http://www.iconfont.cn/
@@ -95,10 +95,11 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
           url: https://fanyi.sogou.com/document
           description: 每个月100页，多了收费哦     
-        - title: doyoudo
-          url: http://doyoudo.com/
+        - title: superdoctranslator
+          url: https://superdoctranslator.com/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/doyoudo.png
-          description: 创意设计软件学习平台
+          description: 一个翻译平台，需要百度appid
+          
         - title: 站酷
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/zcool.png
           url: https://www.zcool.com.cn/
