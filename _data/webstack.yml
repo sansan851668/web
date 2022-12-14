@@ -1,42 +1,39 @@
 - name: 科技论文写作
   icon: linecons-star
   links:
-    - title: 术语查询网站
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
-      url: https://www.termonline.cn/index/
-      description: 查询可能用到的文献术语
-    - title: pqdtcn
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
-      url: https://www.pqdtcn.com/
-      description: 国外学位论文中国集团全文检索平台  
-    - title: 浙江图书馆
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/youtube.png
-      url: https://www.zjlib.cn/#searchs_1_div
-      description: 万方资源进这个
-    - title: Google 学术
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/google.png
-      url: https://scholar.google.cz/schhp?hl=cs
-      description: 需要翻墙
-    - title: 谷歌翻译
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GoogleTranslate.png
-      url: https://translate.google.cn/
-      description: 较为靠谱的翻译工具。      
-    - title: libgen
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3.png
-      url: http://libgen.rs/
-      description: 国外的书籍来这里检索，几乎都有。
     - title: 中国海洋大学信息门户
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%9F%A5%E4%B9%8E.png
       url: http://id.ouc.edu.cn:8071/sso/login?service
       description: 关于学业的一切进这里
-    - title: 菜鸟教程
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/runoob..png
-      url: https://www.runoob.com/
-      description: 编程菜鸟在这里（我）
+    - title: Google 学术
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/google.png
+      url: https://scholar.google.cz/schhp?hl=cs
+      description: 需要翻墙 
+    - title: 中国知网
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
+      url: https://www.cnki.net/
+      description: 中国知网
+    - title: 浙江图书馆
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/youtube.png
+      url: https://www.zjlib.cn/#searchs_1_div
+      description: 万方资源进这个      
+    - title: 谷歌翻译
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GoogleTranslate.png
+      url: https://translate.google.cn/
+      description: 较为靠谱的翻译工具。       
+    - title: 术语查询网站
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
+      url: https://www.termonline.cn/index/
+      description: 查询可能用到的文献术语
     - title: 维基百科中文
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
       url: https://www.wikipedia.org/
       description: 百度查不到的知识点看这里~
+    - title: 菜鸟教程
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/runoob..png
+      url: https://www.runoob.com/
+      description: 编程菜鸟在这里（我）
+
 - name: 科研工具
   icon: linecons-pencil
   sub:
@@ -45,11 +42,12 @@
         - title: pqdtcn
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
           url: https://www.pqdtcn.com/
-          description: 国外学位论文中国集团全文检索平台       
-        - title: 搜狗文档翻译
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
-          url: https://fanyi.sogou.com/document
-          description: 每个月100页，多了收费哦     
+          description: 国外学位论文中国集团全文检索平台
+        - title: libgen
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3.png
+          url: http://libgen.rs/
+          description: 国外的书籍来这里检索，几乎都有。          
+  
         - title: iconfont
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
           url: http://www.iconfont.cn/
