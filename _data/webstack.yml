@@ -16,7 +16,7 @@
     - title: 浙江图书馆
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/youtube.png
       url: https://www.zjlib.cn/#searchs_1_div
-      description: 万方资源进这个      
+      description: 万方资源进这个，支持支付宝登录哦        
     - title: 谷歌翻译
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GoogleTranslate.png
       url: https://translate.google.cn/
@@ -37,7 +37,7 @@
 - name: 科研工具
   icon: linecons-pencil
   sub:
-    - name: 文献资源
+    - name: 文献资源检索
       links:
         - title: pqdtcn
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
@@ -113,12 +113,16 @@
           url: https://www.logonews.cn/
           description:           
 
-    - name: 工具平台
+    - name: 数据库
       links:
-        - title: 蓝湖
+        - title: 浙江图书馆
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/youtube.png
+          url: https://www.zjlib.cn/#searchs_1_div
+          description: 万方资源进这个，支持支付宝登录哦         
+        - title: 广西壮族自治区图书馆
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/lanhu.ico
-          url: https://lanhuapp.com/
-          description: 高效的产品设计协作平台
+          url: https://res.gxlib.org.cn/ermsLogin/view.do
+          description: 广西壮族自治区图书馆
         - title: Axhub
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/favicon.ico
           url: https://axhub.im/
