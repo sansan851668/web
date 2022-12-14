@@ -178,8 +178,9 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/IMDb.png
           url: https://www.imdb.com/
           description: 有时候也需要看看歪果仁的评价！
+          
      - name: 音
-      links:
+       links:
         - title: 网易云音乐
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/IMDb.png
           url: https://music.163.com/
@@ -242,8 +243,6 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Imagine.png
           url: https://github.com/meowtec/Imagine/releases
           description: 图片压缩工具
-                   
-          
         - title: Easyicon
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/easyicon.png
           url: http://www.easyicon.net/
@@ -252,18 +251,6 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/pinterest.png
           url: https://www.pinterest.com/
           description: 全球美图收藏采集站
-        - title: 千图网
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站
-        - title: 千库网
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/qianku.png
-          url: http://588ku.com/
-          description: 免费png图片背景素材下载
-        - title: 我图网
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/wotu.png
-          url: http://www.ooopic.com/
-          description: 我图网,提供图片素材及模板下载,
         - title: pixabay
           url: https://pixabay.com/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/pixabay.png
@@ -276,40 +263,21 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/antdv.ico
           url: https://www.antdv.com/
           description: 网页设计基础UI组件
-        - title: Dribbble
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/default.png
-          url: https://dribbble.com/
-          description: Discover the World’s Top Designers & Creative Professionals
+
           
-        - title: 站酷
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/zcool.png
-          url: https://www.zcool.com.cn/
-          description: 中国人气设计师互动平台
+
         - title: 花瓣
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/huaban.png
           url: https://huaban.com/
           description: 收集灵感,保存有用的素材
-        - title: 标志情报局
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/default.png
-          url: https://www.logonews.cn/
-          description:           
+
           
           
     - name: 字体
       links:
-        - title: 收集字体
-          url: http://ning0.top/2021-11-18-Fonts
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/fonts.png
-          description: 自己收集的一些字体
         - title: 方正字库
           url: http://www.foundertype.com/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/Fondertype.png
           description: 方正字库官方网站
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/ziticq.png
-          description: 中国首个字体品牌设计师交流网
-        - title: 找字体
-          url: http://www.zfont.cn/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/zfont.png
-          description: 免费商用字体网站
+
+
