@@ -4,7 +4,14 @@
     - title: 术语查询网站
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
       url: https://www.termonline.cn/index/
-      description: 查询可能用到的文献术语  
+      description: 查询可能用到的文献术语
+     - title: pqdtcn
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
+      url: https://www.pqdtcn.com/
+      description: 国外学位论文中国集团全文检索平台    
+      
+      
+      
     - title: Unsplash
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
       url: https://unsplash.com/
