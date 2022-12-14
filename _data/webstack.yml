@@ -136,11 +136,19 @@
           url: https://www.cnipa.gov.cn/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/colorhunt.png
           description: 国家知识产权局
-        - title: RGB颜色
-          url: https://www.sioe.cn/yingyong/yanse-rgb-16/
+        - title: 谷歌专利
+          url: https://patents.google.com/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
-          description: RGB颜色值与十六进制颜色码转换工具
-
+          description: 谷歌专利检索
+        - title: 专利信息服务平台
+          url: http://search.cnipr.com/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
+          description: 专利信息服务平台，这个也是国家的哦
+        - title: 佰腾网
+          url: https://www.baiten.cn/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
+          description: 需要注册，基本都能检索到       
+          
     - name: 字体
       links:
         - title: 收集字体
