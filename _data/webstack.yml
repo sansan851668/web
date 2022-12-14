@@ -157,34 +157,7 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/coding.png
           url: https://coding.net/
           description: 一站式软件研发管理协作平台。
-          
-- name: 书影音
-  icon: linecons-music
-  sub:
-    - name: 这一行报错
-      links:
-        - title: 豆瓣读书
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6.png
-          url: https://book.douban.com/
-          description: 记录你读过的、想读和正在读的书。
-    - name: 影
-      links:
-        - title: 豆瓣电影
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1.png
-          url: https://movie.douban.com/
-          description: 影迷发烧友后花园！
-        - title: IMDB
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/IMDb.png
-          url: https://www.imdb.com/
-          description: 有时候也需要看看歪果仁的评价！      
-     - name: 音
-       links:
-        - title: 网易云音乐
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/IMDb.png
-          url: https://music.163.com/
-          description: 云村~      
-      
-      
+             
           
 - name: Something
   icon: linecons-lightbulb
