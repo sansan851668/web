@@ -34,6 +34,8 @@
       url: https://www.runoob.com/
       description: 编程菜鸟在这里（我）
 
+
+
 - name: 科研工具
   icon: linecons-pencil
   sub:
@@ -55,7 +57,10 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
           url: http://fund.keyanzhiku.com/
           description: 基金检索         
-          
+        - title: 中国统计年鉴
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
+          url: http://www.stats.gov.cn/tjsj/ndsj/
+          description: 国家统计局出具的报告           
  
     - name: 文献翻译
       links:
