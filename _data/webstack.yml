@@ -47,11 +47,12 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3.png
           url: http://libgen.rs/
           description: 国外的书籍来这里检索，几乎都有。          
-
-        - title: iconfont
+        - title: x-mol
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
-          url: http://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库
+          url: https://www.x-mol.com/
+          description: 检索，全文需结合后续工具
+          
+          
         - title: Easyicon
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/easyicon.png
           url: http://www.easyicon.net/
