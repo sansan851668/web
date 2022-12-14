@@ -104,18 +104,17 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
           description: 需注册   
           
-
- - name: Ocean University of China
-   icon: linecons-database
-   links:
- - title: 中心实验室
-   logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/alicloud.png
-   url: http://211.64.129.50
-   description: 中国海洋大学食品学院仪器测试中心，电话0532-82031908。  
- - title: 统一支付平台
-   logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/alicloud.png
-   url: http://pay.ouc.edu.cn/login.aspx?local=zh-cn
-   description: 交学费，保险费
+- name: Ocean University of China
+  icon: linecons-database
+  links:
+    - title: 中心实验室
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%9F%A5%E4%B9%8E.png
+      url: http://211.64.129.50
+      description: 中国海洋大学食品学院仪器测试中心，电话0532-82031908。 
+    - title: 统一支付平台
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/alicloud.png
+      url: http://pay.ouc.edu.cn/login.aspx?local=zh-cn
+      description: 交学费，保险费
    
    
    
