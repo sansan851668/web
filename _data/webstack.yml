@@ -124,17 +124,18 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/lanhu.ico
           url: https://res.gxlib.org.cn/ermsLogin/view.do
           description: 广西壮族自治区图书馆
+          
         - title: Axhub
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/favicon.ico
           url: https://axhub.im/
           description: Axure原型托管与协作平台
 
-    - name: 颜色
+    - name: 专利
       links:
-        - title: colorhunt
-          url: http://www.colorhunt.co/
+        - title: 国家知识产权局
+          url: https://www.cnipa.gov.cn/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/colorhunt.png
-          description: 配色网站
+          description: 国家知识产权局
         - title: RGB颜色
           url: https://www.sioe.cn/yingyong/yanse-rgb-16/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
