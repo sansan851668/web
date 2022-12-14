@@ -51,6 +51,11 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
           url: https://www.x-mol.com/
           description: 检索，全文需结合后续工具
+        - title: ZCOOL国家自然科学基金查询-已更新2022年最新数据
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
+          url: http://fund.keyanzhiku.com/
+          description: 基金检索         
+          
  
     - name: 文献翻译
       links:
