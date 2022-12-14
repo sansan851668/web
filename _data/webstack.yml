@@ -1,4 +1,4 @@
-- name: 常用
+- name: 科技论文写作
   icon: linecons-star
   links:
     - title: 术语查询网站
@@ -37,11 +37,19 @@
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
       url: https://www.wikipedia.org/
       description: 百度查不到的知识点看这里~
-- name: 设计
+- name: 科研工具
   icon: linecons-pencil
   sub:
-    - name: 素材资源
+    - name: 文献资源
       links:
+        - title: pqdtcn
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
+          url: https://www.pqdtcn.com/
+          description: 国外学位论文中国集团全文检索平台       
+        - title: 搜狗文档翻译
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
+          url: https://fanyi.sogou.com/document
+          description: 每个月100页，多了收费哦     
         - title: iconfont
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
           url: http://www.iconfont.cn/
@@ -50,10 +58,6 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/easyicon.png
           url: http://www.easyicon.net/
           description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-        - title: Unsplash
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
-          url: https://unsplash.com/
-          description: 一个免费的照片共享网站。
         - title: Pinterest
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/pinterest.png
           url: https://www.pinterest.com/
@@ -87,8 +91,12 @@
           url: https://dribbble.com/
           description: Discover the World’s Top Designers & Creative Professionals
 
-    - name: 参考教学
+    - name: 文献翻译
       links:
+        - title: 搜狗文档翻译
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
+          url: https://fanyi.sogou.com/document
+          description: 每个月100页，多了收费哦     
         - title: doyoudo
           url: http://doyoudo.com/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/doyoudo.png
