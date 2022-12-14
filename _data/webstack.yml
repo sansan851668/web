@@ -147,7 +147,12 @@
         - title: 佰腾网
           url: https://www.baiten.cn/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
-          description: 需要注册，基本都能检索到       
+          description: 需要注册，基本都能检索到  
+        - title: soopat
+          url: http://www2.soopat.com/home/iindex
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
+          description: 需注册           
+          
           
     - name: 字体
       links:
