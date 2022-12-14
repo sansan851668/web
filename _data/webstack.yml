@@ -2,7 +2,7 @@
   icon: linecons-star
   links:
     - title: 术语查询网站
-      logo:https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
       url:https://www.termonline.cn/index/
       description: 查询可能用到的文献术语  
     - title: Unsplash
