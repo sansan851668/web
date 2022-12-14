@@ -194,34 +194,10 @@
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/topbook.png
       url: https://topbook.cc/
       description: 高效视频生活书。
-    - title: 白描OCR
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%99%BD%E6%8F%8F.png
-      url: https://web.baimiaoapp.com/
-      description: 还不错的在线OCR。
-    - title: 小鸡词典
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/jikipedia.jpg
-      url: https://jikipedia.com/
-      description: out了？在这查网络流行语
-    - title: 句子控
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E5%8F%A5%E5%AD%90%E6%8E%A7.png
-      url: https://www.juzikong.com/
-      description: 收集与分享你喜欢的句子。
     - title: Mixlr
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Mixlr.png
       url: http://mixlr.com/
       description: 偷听演唱会的地方。
-    - title: 问卷星
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/wjx.png
-      url: https://www.wjx.cn/
-      description: 用这个做问卷吧
-    - title: 网易云游戏平台
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/wygame.png
-      url: https://cg.163.com/
-      description: 每天两小时，不香吗？
-    - title: 华为云
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/huawei.png
-      url: https://cloud.huawei.com/
-      description: 我用来找手机的。
     - title: 标准地图服务
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E5%9C%B0%E7%90%83.png
       url: http://bzdt.ch.mnr.gov.cn/
@@ -248,14 +224,6 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6.png
           url: https://book.douban.com/
           description: 记录你读过的、想读和正在读的书。
-        - title: 海子的诗
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
-          url: http://haizi.ning0.top/
-          description: 自己整理的
-        - title: 海子诗全编
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
-          url: https://haizi.huhaitai.com/
-          description: 坐在纸箱上想起疯了的朋友们
 
     - name: 影
       links:
@@ -267,29 +235,6 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/IMDb.png
           url: https://www.imdb.com/
           description: 有时候也需要看看歪果仁的评价！
-        - title: 爱奇艺
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%88%B1%E5%A5%87%E8%89%BA.png
-          url: https://www.iqiyi.com/
-          description: 百度系视频网站。
-        - title: Bilibili
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/bilibili.png
-          url: https://www.bilibili.com/
-          description: 亁杯！
-        - title: 腾讯视频
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.png
-          url: https://v.qq.com/
-          description: 独家视频真的让人头大啊！
-        - title: 优酷
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E4%BC%98%E9%85%B7.png
-          url: https://www.youku.com/
-          description: 阿里系视频网站。
-
-    - name: 音
-      links:
-        - title: QQ音乐
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/QQ%E9%9F%B3%E4%B9%90.png
-          url: https://y.qq.com/
-          description: 我常听的音乐平台。
 
 - name: 软件
   icon: linecons-desktop
@@ -300,14 +245,6 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/7zip.png
           url: https://www.7-zip.org/
           description: 好用的解压软件
-        - title: To Do
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/todo.png
-          url: https://todo.microsoft.com/
-          description: 让你从工作到娱乐都保持专注
-        - title: IObit Uninstaller
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/IObitUninstaller.png
-          url: https://www.iobit.com/en/advanceduninstaller.php
-          description: 简单专业的强力卸载软件
         - title: Snipaste
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/snipaste.png
           url: https://www.snipaste.com/
@@ -317,16 +254,7 @@
           url: https://typoraio.cn/
           description: 一款很好用的MarkDown编辑器
 
-    - name: 电脑美化
-      links:
-        - title: Fences
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/fences.png
-          url: https://www.stardock.com/products/fences4/
-          description: 自动组织桌面应用程序，文件和文件夹。
-        - title: Groupy
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Groupy.png
-          url: https://www.stardock.com/products/groupy/
-          description: 任务窗口合并
+
     - name: 设计工具
       links:
         - title: Imagine
