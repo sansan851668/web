@@ -161,7 +161,7 @@
 - name: 书影音
   icon: linecons-music
   sub:
-    - name: 书
+    - name: 这一行报错
       links:
         - title: 豆瓣读书
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6.png
