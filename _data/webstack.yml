@@ -56,7 +56,13 @@
         - title: ZCOOL国家自然科学基金查询-已更新2022年最新数据
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
           url: http://fund.keyanzhiku.com/
-          description: 基金检索         
+          description: 基金检索  
+          
+         - title: 科学网基金
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
+          url: https://fund.sciencenet.cn/
+          description: 科学网基金 
+          
         - title: 中国统计年鉴
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
           url: http://www.stats.gov.cn/tjsj/ndsj/
