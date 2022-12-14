@@ -85,7 +85,16 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/doyoudo.png
           description: 一个翻译平台，需要百度appid
           
-       
+    - name: 期刊投稿
+      links:
+        - title: letpub
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
+          url: http://www.letpub.com.cn/index.php?journalid=4553&page=journalapp&view=detail
+          description: letpub   
+        - title: superdoctranslator
+          url: https://superdoctranslator.com/
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/doyoudo.png
+          description: 一个翻译平台，需要百度appid       
 
     - name: 数据库
       links:
