@@ -1,3 +1,13 @@
+- name: 科研访问网站
+  icon: linecons-sketch
+  links:
+     - title: 术语查询网站
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
+      url:https://www.termonline.cn/index
+      description: 一个面向开源及私有软件项目的托管平台。   
+  
+  
+
 - name: 常用
   icon: linecons-star
   links:
