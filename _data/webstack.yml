@@ -13,18 +13,18 @@
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/youtube.png
       url: https://www.zjlib.cn/#searchs_1_div
       description: 万方资源进这个
-    - title: Google
+    - title: Google 学术
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/google.png
-      url: https://www.google.com/
-      description: 互联网上最大、影响最广泛的搜索引擎。
+      url: https://scholar.google.cz/schhp?hl=cs
+      description: 需要翻墙
     - title: 豆瓣
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3.png
       url: https://www.douban.com/
       description: 致力于帮助发现生活中有用以及有趣的事物。
-    - title: 知乎
+    - title: 中国海洋大学信息门户
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%9F%A5%E4%B9%8E.png
-      url: https://www.zhihu.com/
-      description: 分享你刚编的故事~
+      url: http://id.ouc.edu.cn:8071/sso/login?service
+      description: 关于学业的一切进这里
     - title: 谷歌翻译
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GoogleTranslate.png
       url: https://translate.google.cn/
@@ -33,11 +33,10 @@
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/runoob..png
       url: https://www.runoob.com/
       description: 编程菜鸟在这里（我）
-    - title: 海子的诗
+    - title: 维基百科中文
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
-      url: http://haizi.ning0.top/
-      description: 我自己整理的
-
+      url: https://www.wikipedia.org/
+      description: 百度查不到的知识点看这里~
 - name: 设计
   icon: linecons-pencil
   sub:
