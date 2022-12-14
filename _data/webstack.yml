@@ -62,6 +62,10 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
           url: https://fund.sciencenet.cn/
           description: 科学网基金 
+         - title: 国家科技报告
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
+          url: https://www.nstrs.cn/index;JSESSIONID=cf8f381ec6dc4a5490be4a05506f5542
+          description: 国家科技报告          
           
         - title: 中国统计年鉴
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
