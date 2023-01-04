@@ -43,7 +43,22 @@
       description: 编程菜鸟在这里（我）
 
 
-
+- name: 邮箱
+  icon: linecons-star
+  links:
+    - title: 163邮箱
+      logo: https://i.ibb.co/ts09sXH/image.jpg
+      url: https://hw.mail.163.com/#163
+      description: 网易163
+    - title: QQ邮箱
+      logo: https://i.ibb.co/HqxXC7v/QQ.png
+      url: https://mail.qq.com/
+      description: 腾讯qq     
+    - title: outlook邮箱
+      logo: https://i.ibb.co/FwXzN63/outlook.jpg
+      url: https://outlook.live.com/
+      description: microsoft outlook     
+      
 - name: 科研工具
   icon: linecons-pencil
   sub:
@@ -151,9 +166,6 @@
       url: http://pay.ouc.edu.cn/login.aspx?local=zh-cn
       description: 交学费，保险费
    
-   
-   
-
 - name: Code
   icon: linecons-database
   links:
