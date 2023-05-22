@@ -193,7 +193,7 @@
           url: https://www.w3school.com.cn/
           description: 领先的Web技术教程。
         - title: 菜鸟教程
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/runoob..png
+          logo: [img]https://i.ibb.co/VB2zg7Z/imgbb.png[/img]
           url: https://www.runoob.com/
           description: 编程菜鸟在这里（我）
         - title: Gitee
@@ -204,6 +204,10 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
           url: https://github.com/
           description: 一个面向开源及私有软件项目的托管平台。
+        - title: 上传图片至网页
+          logo: [img]https://i.ibb.co/VB2zg7Z/imgbb.png[/img]
+          url: https://gitee.com/
+          description: 码云，开源中国推出的基于Git的代码托管服务
         - title: Coding
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/coding.png
           url: https://coding.net/
