@@ -1,38 +1,26 @@
 - name: 常用
   icon: linecons-star
   links:
-    - title: Academic Phrasebank
-      logo: https://i.ibb.co/5n5yX7C/image.png
-      url: https://www.phrasebank.manchester.ac.uk/explaining-cause-and-effect/
-      description: 无需登录即可传输数据
-    - title: 微信传输助手网页端
-      logo: https://i.ibb.co/5n5yX7C/image.png
-      url: https://filehelper.weixin.qq.com/
-      description: 无需登录即可传输数据
-    - title: 中国海洋大学信息门户
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
-      url: http://id.ouc.edu.cn:8071/sso/login?service
-      description: 关于学业的一切进这里    
+    - title: 中国知网
+      logo: https://i.ibb.co/dB3Jp2C/image.png
+      url: https://www.cnki.net/
+      description: 中国知网    
     - title: Google 学术
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/google.png
       url: https://scholar.google.cz/schhp?hl=cs
       description: 需要翻墙 
-    - title: 中国知网
-      logo: https://i.ibb.co/dB3Jp2C/image.png
-      url: https://www.cnki.net/
-      description: 中国知网
-    - title: 浙江图书馆
-      logo: https://i.ibb.co/Vjp9sRG/image.jpg
-      url: https://www.zjlib.cn/#searchs_1_div
-      description: 万方资源进这个，支持支付宝登录哦        
-    - title: 谷歌翻译
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GoogleTranslate.png
-      url: https://translate.google.cn/
-      description: 较为靠谱的翻译工具。       
+    - title: Academic Phrasebank
+      logo: https://i.ibb.co/5n5yX7C/image.png
+      url: https://www.phrasebank.manchester.ac.uk/explaining-cause-and-effect/
+      description: 无需登录即可传输数据
     - title: 术语查询网站
       logo: https://i.ibb.co/K63dHJ5/image.jpg
       url: https://www.termonline.cn/index/
       description: 查询可能用到的文献术语
+    - title: 谷歌翻译
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GoogleTranslate.png
+      url: https://translate.google.cn/
+      description: 较为靠谱的翻译工具。       
     - title: QuillBot 改写网站
       url: https://quillbot.com/
       logo: https://i.ibb.co/Ychm9vb/quillbot.jpg
@@ -41,15 +29,16 @@
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
       url: https://www.wikipedia.org/
       description: 百度查不到的知识点看这里~
-    - title: 菜鸟教程
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/runoob..png
-      url: https://www.runoob.com/
-      description: 编程菜鸟在这里（我）
 
 
-- name: 邮箱
+- name: 办公ing
   icon: linecons-star
   links:
+
+    - title: 微信传输助手网页端
+      logo: https://i.ibb.co/5n5yX7C/image.png
+      url: https://filehelper.weixin.qq.com/
+      description: 无需登录即可传输数据  
     - title: 163邮箱
       logo: https://i.ibb.co/ts09sXH/image.jpg
       url: https://hw.mail.163.com/#163
@@ -76,14 +65,10 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E8%B1%86%E7%93%A3.png
           url: http://libgen.rs/
           description: 国外的书籍来这里检索，几乎都有。          
-        - title: x-mol
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
-          url: https://www.x-mol.com/
-          description: 检索，全文需结合后续工具
         - title: ZCOOL国家自然科学基金查询-已更新2022年最新数据
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
           url: http://fund.keyanzhiku.com/
-          description: 基金检索  
+          description: 基金检索 
         - title: 科学网基金
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
           url: https://fund.sciencenet.cn/
@@ -114,28 +99,9 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
           url: http://www.letpub.com.cn/index.php?journalid=4553&page=journalapp&view=detail
           description: letpub   
-        - title: superdoctranslator
-          url: https://superdoctranslator.com/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/doyoudo.png
-          description: 一个翻译平台，需要百度appid       
+ 
 
-    - name: 数据库
-      links:
-        - title: 浙江图书馆
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/youtube.png
-          url: https://www.zjlib.cn/#searchs_1_div
-          description: 万方资源进这个，支持支付宝登录哦         
-        - title: 广西壮族自治区图书馆
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/lanhu.ico
-          url: https://res.gxlib.org.cn/ermsLogin/view.do
-          description: 广西壮族自治区图书馆
-          
-        - title: Axhub
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/favicon.ico
-          url: https://axhub.im/
-          description: Axure原型托管与协作平台
-
-    - name: 专利
+    - name: 专利检索
       links:
         - title: 国家知识产权局
           url: https://www.cnipa.gov.cn/
@@ -161,6 +127,10 @@
 - name: Ocean University of China
   icon: linecons-database
   links:
+    - title: 中国海洋大学信息门户
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
+      url: http://id.ouc.edu.cn:8071/sso/login?service
+      description: 关于学业的一切进这里 
     - title: 中心实验室
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%9F%A5%E4%B9%8E.png
       url: http://211.64.129.50
@@ -169,21 +139,22 @@
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/alicloud.png
       url: http://pay.ouc.edu.cn/login.aspx?local=zh-cn
       description: 交学费，保险费
-   
-- name: Code
+      
+      
+- name: 软件编程
   icon: linecons-database
   links:
   sub:
     - name: 编程常用
       links:
-        - title: 阿里云
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/alicloud.png
-          url: https://www.aliyun.com/
-          description: 全球领先的云计算及人工智能科技公司。
-        - title: 腾讯云
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Tencentcloud.png
-          url: https://cloud.tencent.com/
-          description: 为数百万的企业和开发者提供安全稳定的云计算服务。
+        - title: Github
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
+          url: https://github.com/
+          description: 一个面向开源及私有软件项目的托管平台。
+        - title: imagge
+          logo: https://i.ibb.co/VB2zg7Z/imgbb.png
+          url: https://gitee.com/
+          description: 把图片上传到云端，引用
         - title: 微信开放社区
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/weixindeveloper.png
           url: https://developers.weixin.qq.com/
@@ -195,49 +166,12 @@
         - title: 菜鸟教程
           logo: [img]https://i.ibb.co/VB2zg7Z/imgbb.png[/img]
           url: https://www.runoob.com/
-          description: 编程菜鸟在这里（我）
-        - title: Gitee
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/gitee.png
-          url: https://gitee.com/
-          description: 码云，开源中国推出的基于Git的代码托管服务。
-        - title: Github
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
-          url: https://github.com/
-          description: 一个面向开源及私有软件项目的托管平台。
-        - title: 上传图片至网页
-          logo: https://i.ibb.co/VB2zg7Z/imgbb.png
-          url: https://gitee.com/
-          description: 码云，开源中国推出的基于Git的代码托管服务
-        - title: Coding
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/coding.png
-          url: https://coding.net/
-          description: 一站式软件研发管理协作平台。
+          description: 编程菜鸟在这里（我）。
+
              
-          
 - name: Something
   icon: linecons-lightbulb
   links:
-    - title: 迷雾通
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/geph.png
-      url: https://geph.io/
-      description: 上屋顶用的
-    - title: 智能法律咨询
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E4%B8%AD%E5%9B%BD%E5%8F%B8%E6%B3%95.png
-      url: https://ai.12348.gov.cn
-      description: 中国法律服务网  
-  
-    - title: Topbook
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/topbook.png
-      url: https://topbook.cc/
-      description: 高效视频生活书。
-    - title: Mixlr
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Mixlr.png
-      url: http://mixlr.com/
-      description: 偷听演唱会的地方。
-    - title: 标准地图服务
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E5%9C%B0%E7%90%83.png
-      url: http://bzdt.ch.mnr.gov.cn/
-      description: 官方地图信息
     - title: docsmall
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/docsmall.png
       url: https://docsmall.com/
@@ -261,6 +195,8 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Typora.png
           url: https://typoraio.cn/
           description: 一款很好用的MarkDown编辑器
+          
+          
 
 
     - name: 设计工具
@@ -269,41 +205,17 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Imagine.png
           url: https://github.com/meowtec/Imagine/releases
           description: 图片压缩工具
-        - title: Easyicon
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-        - title: Pinterest
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/pinterest.png
-          url: https://www.pinterest.com/
-          description: 全球美图收藏采集站
-        - title: pixabay
-          url: https://pixabay.com/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/pixabay.png
-          description: 可在任何地方使用的免费图片和视频
         - title: OfficePLUS
           url: http://www.officeplus.cn/Template/Home.shtml
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/officeplus.png
           description: OfficePLUS，微软Office官方在线模板网站！
-        - title: Ant Design Vue
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/antdv.ico
-          url: https://www.antdv.com/
-          description: 网页设计基础UI组件
+
 
           
 
-        - title: 花瓣
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/huaban.png
-          url: https://huaban.com/
-          description: 收集灵感,保存有用的素材
+
 
           
-          
-    - name: 字体
-      links:
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/Fondertype.png
-          description: 方正字库官方网站
+
 
 
