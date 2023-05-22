@@ -205,7 +205,7 @@
           url: https://github.com/
           description: 一个面向开源及私有软件项目的托管平台。
         - title: 上传图片至网页
-          logo: [img]https://i.ibb.co/VB2zg7Z/imgbb.png[/img]
+          logo: https://i.ibb.co/VB2zg7Z/imgbb.png
           url: https://gitee.com/
           description: 码云，开源中国推出的基于Git的代码托管服务
         - title: Coding
