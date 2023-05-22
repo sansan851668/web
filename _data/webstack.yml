@@ -20,7 +20,11 @@
     - title: 谷歌翻译
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GoogleTranslate.png
       url: https://translate.google.cn/
-      description: 较为靠谱的翻译工具。       
+      description: 较为靠谱的翻译工具。  
+    - title: deepl
+      logo: https://i.ibb.co/wwtpx1B/deepl.png
+      url: https://www.deepl.com/translator
+      description: 较为靠谱的翻译工具。        
     - title: QuillBot 改写网站
       url: https://quillbot.com/
       logo: https://i.ibb.co/Ychm9vb/quillbot.jpg
@@ -92,9 +96,6 @@
           url: https://superdoctranslator.com/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/doyoudo.png
           description: 一个翻译平台，需要百度appid
-          
-    - name: 期刊投稿
-      links:
         - title: letpub
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
           url: http://www.letpub.com.cn/index.php?journalid=4553&page=journalapp&view=detail
@@ -195,9 +196,7 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Typora.png
           url: https://typoraio.cn/
           description: 一款很好用的MarkDown编辑器
-          
-          
-
+        
 
     - name: 设计工具
       links:
