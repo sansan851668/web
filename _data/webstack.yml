@@ -111,7 +111,7 @@
                        
 - name: Something
   icon: linecons-lightbulb
-    sub:
+  sub:
     - name: 文献资源检索
       links:
         - title: 搜狗文档翻译
