@@ -30,7 +30,7 @@
       logo: https://i.ibb.co/Ychm9vb/quillbot.jpg
       description: 论文改写，使用高级功能可以去淘宝买账号hhh 
     - title: letpub
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
+      logo: https://i.ibb.co/GQJ4dpW/letpub.png
       url: http://www.letpub.com.cn/index.php?journalid=4553&page=journalapp&view=detail
       description: letpub   
     - title: 维基百科中文
@@ -47,8 +47,8 @@
   icon: linecons-database
   links:
     - title: 中国海洋大学信息门户
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
-      url: http://id.ouc.edu.cn:8071/sso/login?service
+      logo: https://i.ibb.co/HFP6rP2/0007019870654204-b.jpg
+      url: http://id.ouc.edu.cn:8071/sso/login?service=http%3A%2F%2Fmy.ouc.edu.cn%2Fuser%2FsimpleSSOLogin
       description: 关于学业的一切进这里 
     - title: 中心实验室
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%9F%A5%E4%B9%8E.png
@@ -155,9 +155,9 @@
   sub:
     - name: 编程常用
       links:
-        - title: imagge
+        - title: imgBB
           logo: https://i.ibb.co/VB2zg7Z/imgbb.png
-          url: https://gitee.com/
+          url: https://imgbb.com/
           description: 把图片上传到云端，引用
         - title: 微信开放社区
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/weixindeveloper.png
