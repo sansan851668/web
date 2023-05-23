@@ -111,7 +111,9 @@
                        
 - name: Something
   icon: linecons-lightbulb
-  links:
+    sub:
+    - name: 文献资源检索
+      links:
         - title: 搜狗文档翻译
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
           url: https://fanyi.sogou.com/document
