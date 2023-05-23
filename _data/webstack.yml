@@ -45,7 +45,11 @@
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
       url: https://github.com/
       description: 一个面向开源及私有软件项目的托管平台。
-     
+    - title: 飞书
+      logo: https://i.ibb.co/pvG9HzY/image.png
+      url: https://l0avwd4sg2.feishu.cn/drive/home/
+      description: 一个面向开源及私有软件项目的托管平台。
+    
       
 - name: Ocean University of China
   icon: linecons-database
