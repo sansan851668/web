@@ -59,7 +59,7 @@
       url: http://id.ouc.edu.cn:8071/sso/login?service=http%3A%2F%2Fmy.ouc.edu.cn%2Fuser%2FsimpleSSOLogin
       description: 关于学业的一切进这里 
     - title: 中心实验室
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%9F%A5%E4%B9%8E.png
+      logo: https://i.ibb.co/Rp9PF3v/20230523160717.jpg
       url: http://211.64.129.50
       description: 中国海洋大学食品学院仪器测试中心，电话0532-82031908。 
     - title: 统一支付平台
@@ -123,37 +123,35 @@
     - name: 文献资源检索
       links:
         - title: 搜狗文档翻译
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
+          logo: https://i.ibb.co/yYHz3Fy/image.jpg
           url: https://fanyi.sogou.com/document
           description: 每个月100页，多了收费哦     
         - title: superdoctranslator
           url: https://superdoctranslator.com/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/doyoudo.png
+          logo: https://i.ibb.co/0hMMwLH/image.png
           description: 一个翻译平台，需要百度appid
-
- 
 
     - name: 专利检索
       links:
         - title: 国家知识产权局
           url: https://www.cnipa.gov.cn/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/colorhunt.png
+          logo: https://i.ibb.co/xjsKCnD/image.png
           description: 国家知识产权局
         - title: 谷歌专利
           url: https://patents.google.com/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
+          logo: https://i.ibb.co/g3K3DgX/image.png
           description: 谷歌专利检索
         - title: 专利信息服务平台
           url: http://search.cnipr.com/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
+          logo: https://i.ibb.co/SvjbJR4/image.png
           description: 专利信息服务平台，这个也是国家的哦
         - title: 佰腾网
           url: https://www.baiten.cn/
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
+          logo: https://i.ibb.co/F342WxC/image.png
           description: 需要注册，基本都能检索到  
         - title: soopat
           url: http://www2.soopat.com/home/iindex
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
+          logo: https://i.ibb.co/pjtThZB/soopat.png
           description: 需注册             
 
       
