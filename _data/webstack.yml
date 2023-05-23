@@ -28,17 +28,40 @@
     - title: QuillBot 改写网站
       url: https://quillbot.com/
       logo: https://i.ibb.co/Ychm9vb/quillbot.jpg
-      description: 论文改写，使用高级功能可以去淘宝买账号hhh      
+      description: 论文改写，使用高级功能可以去淘宝买账号hhh 
+    - title: letpub
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
+      url: http://www.letpub.com.cn/index.php?journalid=4553&page=journalapp&view=detail
+      description: letpub   
     - title: 维基百科中文
       logo: https://i.ibb.co/p3NLy56/image.png
       url: https://www.wikipedia.org/
       description: 百度查不到的知识点看这里~
-
-
+    - title: Github
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
+      url: https://github.com/
+      description: 一个面向开源及私有软件项目的托管平台。
+     
+      
+- name: Ocean University of China
+  icon: linecons-database
+  links:
+    - title: 中国海洋大学信息门户
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
+      url: http://id.ouc.edu.cn:8071/sso/login?service
+      description: 关于学业的一切进这里 
+    - title: 中心实验室
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%9F%A5%E4%B9%8E.png
+      url: http://211.64.129.50
+      description: 中国海洋大学食品学院仪器测试中心，电话0532-82031908。 
+    - title: 统一支付平台
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/alicloud.png
+      url: http://pay.ouc.edu.cn/login.aspx?local=zh-cn
+      description: 交学费，保险费 
+      
 - name: 办公ing
   icon: linecons-star
   links:
-
     - title: 微信传输助手网页端
       logo: https://i.ibb.co/5n5yX7C/image.png
       url: https://filehelper.weixin.qq.com/
@@ -84,10 +107,11 @@
         - title: 中国统计年鉴
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
           url: http://www.stats.gov.cn/tjsj/ndsj/
-          description: 国家统计局出具的报告           
- 
-    - name: 文献翻译
-      links:
+          description: 国家统计局出具的报告  
+                       
+- name: Something
+  icon: linecons-lightbulb
+  links:
         - title: 搜狗文档翻译
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
           url: https://fanyi.sogou.com/document
@@ -96,10 +120,7 @@
           url: https://superdoctranslator.com/
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/doyoudo.png
           description: 一个翻译平台，需要百度appid
-        - title: letpub
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/unsplash.png
-          url: http://www.letpub.com.cn/index.php?journalid=4553&page=journalapp&view=detail
-          description: letpub   
+
  
 
     - name: 专利检索
@@ -123,24 +144,8 @@
         - title: soopat
           url: http://www2.soopat.com/home/iindex
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/RGBcolor.png
-          description: 需注册   
-          
-- name: Ocean University of China
-  icon: linecons-database
-  links:
-    - title: 中国海洋大学信息门户
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E6%B5%B7.png
-      url: http://id.ouc.edu.cn:8071/sso/login?service
-      description: 关于学业的一切进这里 
-    - title: 中心实验室
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/%E7%9F%A5%E4%B9%8E.png
-      url: http://211.64.129.50
-      description: 中国海洋大学食品学院仪器测试中心，电话0532-82031908。 
-    - title: 统一支付平台
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/alicloud.png
-      url: http://pay.ouc.edu.cn/login.aspx?local=zh-cn
-      description: 交学费，保险费
-      
+          description: 需注册             
+
       
 - name: 软件编程
   icon: linecons-database
@@ -148,10 +153,6 @@
   sub:
     - name: 编程常用
       links:
-        - title: Github
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
-          url: https://github.com/
-          description: 一个面向开源及私有软件项目的托管平台。
         - title: imagge
           logo: https://i.ibb.co/VB2zg7Z/imgbb.png
           url: https://gitee.com/
@@ -168,16 +169,6 @@
           logo: https://i.ibb.co/VB2zg7Z/imgbb.png
           url: https://www.runoob.com/
           description: 编程菜鸟在这里（我）。
-
-             
-- name: Something
-  icon: linecons-lightbulb
-  links:
-    - title: docsmall
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/docsmall.png
-      url: https://docsmall.com/
-      description: 在线文件处理工具
-
 
 - name: 软件
   icon: linecons-desktop
@@ -196,7 +187,10 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Typora.png
           url: https://typoraio.cn/
           description: 一款很好用的MarkDown编辑器
-        
+        - title: docsmall
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/docsmall.png
+          url: https://docsmall.com/
+          description: 在线文件处理工具
 
     - name: 设计工具
       links:
@@ -210,11 +204,4 @@
           description: OfficePLUS，微软Office官方在线模板网站！
 
 
-          
-
-
-
-          
-
-
-
+         
