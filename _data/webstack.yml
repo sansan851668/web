@@ -101,20 +101,20 @@
           url: http://libgen.rs/
           description: 国外的书籍来这里检索，几乎都有。          
         - title: ZCOOL国家自然科学基金查询-已更新2022年最新数据
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
+          logo: https://i.ibb.co/2MtYGVq/image.png
           url: http://fund.keyanzhiku.com/
           description: 基金检索 
         - title: 科学网基金
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
+          logo: https://i.ibb.co/yn1jWdp/image.png
           url: https://fund.sciencenet.cn/
           description: 科学网基金 
         - title: 国家科技报告
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
+          logo: https://i.ibb.co/mHCLyMR/image.png
           url: https://www.nstrs.cn/index;JSESSIONID=cf8f381ec6dc4a5490be4a05506f5542
           description: 国家科技报告          
         - title: 中国统计年鉴
-          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/iconfont.png
-          url: http://www.stats.gov.cn/tjsj/ndsj/
+          logo: https://i.ibb.co/LQVTftP/image.png
+          url: http://www.stats.gov.cn/
           description: 国家统计局出具的报告  
                        
 - name: Something
