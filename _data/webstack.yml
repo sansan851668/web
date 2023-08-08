@@ -4,7 +4,15 @@
     - title: 中国知网
       logo: https://i.ibb.co/dB3Jp2C/image.png
       url: https://www.cnki.net/
-      description: 中国知网    
+      description: 中国知网  
+    - title: 谷歌翻译
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GoogleTranslate.png
+      url: https://translate.google.cn/
+      description: 较为靠谱的翻译工具。  
+    - title: deepl write
+      logo: https://i.ibb.co/wwtpx1B/deepl.png
+      url: https://www.deepl.com/write
+      description: 对谷歌翻译的内容进行润色，改词。         
     - title: Google 学术
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/google.png
       url: https://scholar.google.cz/schhp?hl=cs
@@ -17,14 +25,6 @@
       logo: https://i.ibb.co/K63dHJ5/image.jpg
       url: https://www.termonline.cn/index/
       description: 查询可能用到的文献术语
-    - title: 谷歌翻译
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GoogleTranslate.png
-      url: https://translate.google.cn/
-      description: 较为靠谱的翻译工具。  
-    - title: deepl
-      logo: https://i.ibb.co/wwtpx1B/deepl.png
-      url: https://www.deepl.com/translator
-      description: 较为靠谱的翻译工具。 
     - title: wordtune
       url: https://app.wordtune.com/editor/documents/8b60b720-8b23-44c1-80c6-6c2cf2ebfb0b
       logo: https://i.ibb.co/vBqXWM2/wordtune.png
@@ -49,7 +49,10 @@
       logo: https://i.ibb.co/pvG9HzY/image.png
       url: https://l0avwd4sg2.feishu.cn/drive/home/
       description: 一个面向开源及私有软件项目的托管平台。
-    
+    - title: chatgpt3.5
+      logo: https://i.ibb.co/ysxvFJb/2023-08-08-183057.png
+      url: https://my.aigcplus.io/chat/13867169439045
+      description: 用来查询matlab代码  
       
 - name: Ocean University of China
   icon: linecons-database
