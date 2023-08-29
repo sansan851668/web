@@ -59,7 +59,7 @@
   links:
     - title: 中国海洋大学信息门户
       logo: https://i.ibb.co/HFP6rP2/0007019870654204-b.jpg
-      url: http://id.ouc.edu.cn:8071/sso/login?service=http%3A%2F%2Fmy.ouc.edu.cn%2Fuser%2FsimpleSSOLogin
+      url: https://my.ouc.edu.cn/
       description: 关于学业的一切进这里 
     - title: 中心实验室
       logo: https://i.ibb.co/Rp9PF3v/20230523160717.jpg
