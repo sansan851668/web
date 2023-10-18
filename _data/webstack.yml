@@ -53,6 +53,11 @@
       logo: https://i.ibb.co/ysxvFJb/2023-08-08-183057.png
       url: https://my.aigcplus.io/chat/13867169439045
       description: 用来查询matlab代码  
+    - title: overleaf
+      logo: https://i.ibb.co/FX0QmF0/OIP-C.jpg
+      url: https://www.overleaf.com/
+      description: 用来写手记，写实验记录均可  
+
       
 - name: Ocean University of China
   icon: linecons-database
