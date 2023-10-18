@@ -128,8 +128,12 @@
 - name: Something
   icon: linecons-lightbulb
   sub:
-    - name: 文献资源检索
+    - name: 翻译
       links:
+        - title: deepl
+          logo: https://i.ibb.co/wwtpx1B/deepl.png
+          url: https://www.deepl.com/
+          description: 翻译翻译~         
         - title: 搜狗文档翻译
           logo: https://i.ibb.co/yYHz3Fy/image.jpg
           url: https://fanyi.sogou.com/document
