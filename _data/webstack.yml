@@ -133,7 +133,7 @@
           url: http://www.stats.gov.cn/
           description: 国家统计局出具的报告  
           
-- name: 图书检索、PDZ转PDF
+- name: 中文图书检索、PDZ转PDF
   icon: linecons-database
   links:
     - title: 超星汇雅电子书库
