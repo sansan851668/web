@@ -132,6 +132,15 @@
           logo: https://i.ibb.co/LQVTftP/image.png
           url: http://www.stats.gov.cn/
           description: 国家统计局出具的报告  
+          
+- name: 图书检索、PDZ转PDF
+  icon: linecons-database
+  links:
+    - title: 超星汇雅电子书库（用壮族自治区账号进）
+      logo: https://i.ibb.co/mzMSFgN/image.png
+      url: https://www.sslibrary.com
+      description: 关于学业的一切进这里
+
                        
 - name: Something
   icon: linecons-lightbulb
