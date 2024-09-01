@@ -136,11 +136,14 @@
 - name: 图书检索、PDZ转PDF
   icon: linecons-database
   links:
-    - title: 超星汇雅电子书库（用壮族自治区账号进）
+    - title: 超星汇雅电子书库
       logo: https://i.ibb.co/mzMSFgN/image.png
       url: https://www.sslibrary.com
-      description: 关于学业的一切进这里
-
+      description: （用壮族自治区账号进）
+    - title: 搬书匠
+      logo: https://i.ibb.co/mzMSFgN/image.png
+      url: http://www.banshujiang.cn/
+      description: 编程有关书籍收录
                        
 - name: Something
   icon: linecons-lightbulb
