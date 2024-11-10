@@ -80,8 +80,15 @@
       description: 交学费，保险费
     - title: 三亚实验室服务平台
       logo: https://i.ibb.co/wSNKvrg/Snipaste-2024-11-10-21-15-55.jpg
-      url: mall.sdzsscnet.com
+      url: http://mall.sdzsscnet.com
       description: 三亚实验室耗材下单平台
+    - title: 中国博士后办公平台
+      logo: https://i.ibb.co/2NWLjM1/image.jpg
+      url: https://www.chinapostdoctor.org.cn/
+      description: 三亚实验室耗材下单平台
+
+
+    
       
 - name: 办公ing
   icon: linecons-star
