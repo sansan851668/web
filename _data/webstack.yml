@@ -77,7 +77,11 @@
     - title: 统一支付平台
       logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/alicloud.png
       url: http://pay.ouc.edu.cn/login.aspx?local=zh-cn
-      description: 交学费，保险费 
+      description: 交学费，保险费
+    - title: 三亚实验室服务平台
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/alicloud.png
+      url: mall.sdzsscnet.com
+      description: 三亚实验室耗材下单平台
       
 - name: 办公ing
   icon: linecons-star
