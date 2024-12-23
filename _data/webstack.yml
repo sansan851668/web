@@ -109,7 +109,18 @@
       logo: https://i.ibb.co/FwXzN63/outlook.jpg
       url: https://outlook.live.com/
       description: microsoft outlook     
-      
+
+- name: 出国博士后
+  icon: linecons-pencil
+  sub:
+    - name: 领英
+      links:
+        - title: 浙江图书馆（万方资源）
+          logo: https://i.ibb.co/2hdTkv9/image.jpg
+          url: https://www.zjlib.cn/
+          description: 浙江图书馆，读者号是身份证号~      
+
+
 - name: 科研工具
   icon: linecons-pencil
   sub:
