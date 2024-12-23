@@ -113,12 +113,12 @@
 - name: 出国博士后
   icon: linecons-pencil
   sub:
-    - name: 领英
+    - name: 
       links:
-        - title: 浙江图书馆（万方资源）
+        - title: 领英
           logo: https://i.ibb.co/2hdTkv9/image.jpg
-          url: https://www.zjlib.cn/
-          description: 浙江图书馆，读者号是身份证号~      
+          url: https://www.linkedin.com/login
+          description: 领英，找出国就业的机会
 
 
 - name: 科研工具
