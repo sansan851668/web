@@ -62,6 +62,16 @@
       url: https://www.overleaf.com/
       description: 用来写手记，写实验记录均可  
 
+
+
+- name: Fund application
+  icon: linecons-star
+  links:
+    - title: 国家自然科学基金委
+      logo: https://i.ibb.co/TBmd7RL/zrankexuejjnwe.png
+      url: https://grants.nsfc.gov.cn
+      description: 在这里申请国家自然科学基金委项目
+
       
 - name: Ocean University of China
   icon: linecons-database
