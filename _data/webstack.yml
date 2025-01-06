@@ -71,11 +71,14 @@
 - name: Fund application
   icon: linecons-star
   links:
+    - title: 国自然首页 申请指南
+      logo: https://i.ibb.co/z4MPmcy/image.png
+      url: https://www.nsfc.gov.cn
+      description: 在这里申请国家自然科学基金委项目
     - title: 国家自然科学基金委
       logo: https://i.ibb.co/TBmd7RL/zrankexuejjnwe.png
       url: https://grants.nsfc.gov.cn
       description: 在这里申请国家自然科学基金委项目
-
     - title: letpub国自然查询基金查询
       logo: https://i.ibb.co/c1wrnKd/letpub.png
       url: https://www.letpub.com.cn/index.php?page=grant
