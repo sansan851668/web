@@ -65,7 +65,10 @@
       logo: https://i.ibb.co/FX0QmF0/OIP-C.jpg
       url: https://www.overleaf.com/
       description: 用来写手记，写实验记录均可  
-
+    - title: odeepseek
+      logo: https://i.ibb.co/wrZhPvPt/deepseek.png
+      url: https://www.deepseek.com/
+      description: AI写代码、询问不明白的事宜  
 
 
 - name: Fund application
