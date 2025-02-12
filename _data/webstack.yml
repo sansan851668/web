@@ -65,13 +65,17 @@
       logo: https://i.ibb.co/FX0QmF0/OIP-C.jpg
       url: https://www.overleaf.com/
       description: 用来写手记，写实验记录均可  
-    - title: odeepseek
+    - title: deepseek
       logo: https://i.ibb.co/wrZhPvPt/deepseek.png
       url: https://www.deepseek.com/
       description: AI写代码、询问不明白的事宜  
 
 
-- name: Fund application
+
+
+
+
+- name: Fund application AND Certificate Acquisition
   icon: linecons-star
   links:
     - title: 国自然首页 申请指南
@@ -95,7 +99,13 @@
       url: https://www.chinapostdoctor.org.cn/bshjjh
       description: 申请全国博士后面上基金、查看申报指南
 
-
+- name: Certificate Acquisition
+  icon: linecons-star
+  links:
+    - title: 中国计算机技术职业资格网
+      logo: https://i.ibb.co/hFVXTVcX/image.png
+      url: https://www.ruankao.org.cn/
+      description: 在这里参加每年的计算机资格考试报名（初级程序员、高级程序员）
 
 
 
