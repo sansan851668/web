@@ -75,7 +75,7 @@
 
 
 
-- name: Fund application AND Certificate Acquisition
+- name: Fund application
   icon: linecons-star
   links:
     - title: 国自然首页 申请指南
