@@ -329,6 +329,13 @@
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/docsmall.png
           url: https://docsmall.com/
           description: 在线文件处理工具
+        - title: mathpix
+          logo: https://i.ibb.co/RGKQKSYn/mathpix.png
+          url: https://mathpix.com/desktop-downloads
+          description: 识别图片中的公式
+
+
+
 
     - name: 设计工具
       links:
