@@ -29,6 +29,10 @@
       logo: https://i.ibb.co/K63dHJ5/image.jpg
       url: https://www.termonline.cn/index/
       description: 查询可能用到的文献术语
+    - title: 知网翻译助手
+      logo: https://i.ibb.co/hRQDmsBK/cnki.png
+      url: https://dict.cnki.net/index#
+      description: 查询可能用到的文献术语、看看文献的表达方式      
     - title: wordtune
       url: https://app.wordtune.com/editor/documents/8b60b720-8b23-44c1-80c6-6c2cf2ebfb0b
       logo: https://i.ibb.co/vBqXWM2/wordtune.png
