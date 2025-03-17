@@ -102,14 +102,21 @@
       url: https://rsc.ouc.edu.cn/30724/list.htm
       description: 在这里发布博士后面上、特别资助、创新人才计划官方通知  
       
-    - title: 中国博士后科学资助指南、博士后面上基金申报（3月1日-3月31日/8月1日-8月31日）
+    - title: 中国博士后科学资助指南首页、博士后面上基金申报（3月1日-3月31日/8月1日-8月31日）
       logo: https://i.ibb.co/fHsL09C/image.png
       url: https://www.chinapostdoctor.org.cn/bshjjh
       description: 申请全国博士后面上基金、查看申报指南
+
+    - title: 博士后面上、特别资助BC登录页面（面上3月、8月、特别资助BC4月）
+      logo: https://i.ibb.co/27XZc7fB/image.png
+      url: https://rsc.ouc.edu.cn/30724/list.htm
+      description: 在这里登录提交系统申请
+      
     - title: letpub国自然查询基金查询
       logo: https://i.ibb.co/c1wrnKd/letpub.png
       url: https://www.letpub.com.cn/index.php?page=grant
       description: 在查询有哪些本领域内的基金 可单独检索青基
+      
     - title: 国家自然科学基金委大数据知识管理服务门户
       logo: https://i.ibb.co/YWthVNY/image.png
       url: https://kd.nsfc.cn/
