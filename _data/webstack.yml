@@ -82,35 +82,38 @@
 - name: Fund application
   icon: linecons-star
   links:
+
+    - title: 国自然申请页面（3月1日-3月18日）
+      logo: https://i.ibb.co/TBmd7RL/zrankexuejjnwe.png
+      url: https://grants.nsfc.gov.cn
+      description: 在这里申请国家自然科学基金委项目
+      
+    - title: 博士后面上、特别资助BC登录页面（面上3月、8月、特别资助BC4月）
+      logo: https://i.ibb.co/27XZc7fB/image.png
+      url: https://jj.chinapostdoctor.org.cn/auth/login.html?usertype=bsh
+      description: 在这里登录提交系统申请
+  
     - title: 中国海洋大学科学技术处公告
       logo: https://i.ibb.co/G3Nfs67v/image.png
       url: http://211.64.142.67/kjc/
       description: 每年的各种项目类型均在此处进行公告
       
-    - title: 国家自然科学基金委（3月1日-3月18日）
-      logo: https://i.ibb.co/TBmd7RL/zrankexuejjnwe.png
-      url: https://grants.nsfc.gov.cn
-      description: 在这里申请国家自然科学基金委项目
+    - title: 中国海洋大学人事处（发布博士后基金相关通知）
+      logo: https://i.ibb.co/psYRGZT/image.png
+      url: https://rsc.ouc.edu.cn/30724/list.htm
+      description: 在这里发布博士后面上、特别资助、创新人才计划官方通知     
+
       
     - title: 国自然首页 申请指南
       logo: https://i.ibb.co/z4MPmcy/image.png
       url: https://www.nsfc.gov.cn
       description: 在这里查看国家自然科学基金委项目申报指南
       
-    - title: 中国海洋大学人事处（发布博士后基金相关通知）
-      logo: https://i.ibb.co/psYRGZT/image.png
-      url: https://rsc.ouc.edu.cn/30724/list.htm
-      description: 在这里发布博士后面上、特别资助、创新人才计划官方通知  
-      
-    - title: 中国博士后科学资助指南首页、博士后面上基金申报（3月1日-3月31日/8月1日-8月31日）
+    - title: 中国博士后科学资助指南首页
       logo: https://i.ibb.co/fHsL09C/image.png
       url: https://www.chinapostdoctor.org.cn/bshjjh
-      description: 申请全国博士后面上基金、查看申报指南
+      description: 查看申报指南、进入申报系统等
 
-    - title: 博士后面上、特别资助BC登录页面（面上3月、8月、特别资助BC4月）
-      logo: https://i.ibb.co/27XZc7fB/image.png
-      url: https://rsc.ouc.edu.cn/30724/list.htm
-      description: 在这里登录提交系统申请
       
     - title: letpub国自然查询基金查询
       logo: https://i.ibb.co/c1wrnKd/letpub.png
