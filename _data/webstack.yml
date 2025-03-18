@@ -125,6 +125,28 @@
       url: https://kd.nsfc.cn/
       description: 下载结题报告
 
+- name: 出国博士后
+  icon: linecons-pencil
+  sub:
+    - name: 
+      links:
+
+
+        - title: 国家留学基金委公派留学项目
+          logo: https://i.ibb.co/tpgSjMWp/image.png
+          url: https://www.csc.edu.cn/article/3468
+          description: 领英，找出国就业的机会      
+        - title: 领英
+          logo: https://i.ibb.co/M1WnqfS/linkin.png
+          url: https://www.linkedin.com/login
+          description: 领英，找出国就业的机会
+        - title: indeed
+          logo: https://i.ibb.co/pzHm1Cy/indeed.png
+          url: https://www.indeed.com/
+          description: indeed
+
+
+
 
 - name: Certificate Acquisition
   icon: linecons-star
@@ -183,20 +205,6 @@
       logo: https://i.ibb.co/FwXzN63/outlook.jpg
       url: https://outlook.live.com/
       description: microsoft outlook     
-
-- name: 出国博士后
-  icon: linecons-pencil
-  sub:
-    - name: 
-      links:
-        - title: 领英
-          logo: https://i.ibb.co/M1WnqfS/linkin.png
-          url: https://www.linkedin.com/login
-          description: 领英，找出国就业的机会
-        - title: indeed
-          logo: https://i.ibb.co/pzHm1Cy/indeed.png
-          url: https://www.indeed.com/
-          description: indeed
 
 
 
