@@ -53,10 +53,7 @@
       logo: https://i.ibb.co/p3NLy56/image.png
       url: https://www.wikipedia.org/
       description: 百度查不到的知识点看这里~
-    - title: Github
-      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
-      url: https://github.com/
-      description: 一个面向开源及私有软件项目的托管平台。
+
     - title: 飞书
       logo: https://i.ibb.co/pvG9HzY/image.png
       url: https://l0avwd4sg2.feishu.cn/drive/home/
@@ -336,6 +333,10 @@
   sub:
     - name: 编程常用
       links:
+        - title: Github
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
+          url: https://github.com/
+          description: 一个面向开源及私有软件项目的托管平台。
         - title: imgBB
           logo: https://i.ibb.co/VB2zg7Z/imgbb.png
           url: https://imgbb.com/
