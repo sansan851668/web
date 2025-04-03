@@ -58,18 +58,12 @@
       logo: https://i.ibb.co/pvG9HzY/image.png
       url: https://l0avwd4sg2.feishu.cn/drive/home/
       description: 一个面向开源及私有软件项目的托管平台。
-    - title: chatgpt3.5
-      logo: https://i.ibb.co/ysxvFJb/2023-08-08-183057.png
-      url: https://my.aigcplus.io/chat/13867169439045
-      description: 用来查询matlab代码  
+
     - title: overleaf
       logo: https://i.ibb.co/FX0QmF0/OIP-C.jpg
       url: https://www.overleaf.com/
       description: 用来写手记，写实验记录均可  
-    - title: deepseek
-      logo: https://i.ibb.co/wrZhPvPt/deepseek.png
-      url: https://www.deepseek.com/
-      description: AI写代码、询问不明白的事宜  
+
 
 
 
@@ -341,7 +335,20 @@
           logo: https://i.ibb.co/HLSjSkTM/biocons.png
           url: https://bioicons.com/extensions/
           description: 绘制国自然技术路线图
+        - title: deepseek
+          logo: https://i.ibb.co/wrZhPvPt/deepseek.png
+          url: https://www.deepseek.com/
+          description: AI写代码、询问不明白的事宜  
+        - title: 智谱清言
+          logo: https://i.ibb.co/xqWTmWdx/image.png
+          url: https://chatglm.cn/main/alltoolsdetail?lang=zh
+          description: 智谱清言
+        - title: chatgpt3.5
+          logo: https://i.ibb.co/ysxvFJb/2023-08-08-183057.png
+          url: https://my.aigcplus.io/chat/13867169439045
+          description: 用来查询matlab代码  
 
+          
 
 
 
