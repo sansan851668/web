@@ -331,7 +331,7 @@
   icon: linecons-database
   links:
   sub:
-    - name: 编程常用
+    - name: 流程图绘制&AI办公
       links:
         - title: drawio 绘制流程图
           logo: https://i.ibb.co/G3fxn2LQ/drawio.png
