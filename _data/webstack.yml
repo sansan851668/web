@@ -333,6 +333,21 @@
   sub:
     - name: 编程常用
       links:
+        - title: drawio 绘制流程图
+          logo: https://i.ibb.co/G3fxn2LQ/drawio.png
+          url: https://app.diagrams.net/
+          description: 绘制国自然技术路线图
+        - title: bioicons
+          logo: https://i.ibb.co/HLSjSkTM/biocons.png
+          url: https://bioicons.com/extensions/
+          description: 绘制国自然技术路线图
+
+
+
+
+  
+    - name: 编程常用
+      links:
         - title: Github
           logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
           url: https://github.com/
@@ -353,6 +368,7 @@
           logo: https://i.ibb.co/VB2zg7Z/imgbb.png
           url: https://www.runoob.com/
           description: 编程菜鸟在这里（我）。
+          
 
 - name: 软件
   icon: linecons-desktop
