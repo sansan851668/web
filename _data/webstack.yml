@@ -64,7 +64,10 @@
       url: https://www.overleaf.com/
       description: 用来写手记，写实验记录均可  
 
-
+    - title: csdn 我的博客
+      logo: https://i.ibb.co/YWthVNY/image.png
+      url: hhttps://blog.csdn.net/sansan851668?type=blog
+      description: 下载结题报告
 
 
 
@@ -122,26 +125,7 @@
       url: https://kd.nsfc.cn/
       description: 下载结题报告
 
-- name: 出国博士后
-  icon: linecons-pencil
-  sub:
-    - name: 
-      links:
 
-
-        - title: 国家留学基金委公派留学项目
-          logo: https://i.ibb.co/tpgSjMWp/image.png
-          url: https://www.csc.edu.cn/article/3468
-          description: 2025公派博士后公告
-          
-        - title: 领英
-          logo: https://i.ibb.co/M1WnqfS/linkin.png
-          url: https://www.linkedin.com/login
-          description: 领英，找出国就业的机会
-        - title: indeed
-          logo: https://i.ibb.co/pzHm1Cy/indeed.png
-          url: https://www.indeed.com/
-          description: indeed
 
 
 
@@ -162,12 +146,41 @@
       url: https://wangxiao.xisaiwang.com/tiku2/list-zt146-1.html?1=1
       description: 希赛真题
       
+    - title: 法考报名网站
+      logo: https://i.ibb.co/1GK6FP8C/image.png
+      url: https://www.moj.gov.cn/
+      description: 司法部
+
+    - title: 竹马 法考真题
+      logo: https://i.ibb.co/1GK6FP8C/image.png
+      url: https://zhumavip.com/w/questionBank?type=fakao&activeType=zhuguan&curQuestionType=0
+      description: 竹马法考 真题
+      
     - title: 书法等级考试
       logo: https://i.ibb.co/jkPMmgS7/image.png
       url: https://ccpt.neea.edu.cn/
       description: 在这里参加书法等级考试）
 
+- name: 出国博士后
+  icon: linecons-pencil
+  sub:
+    - name: 
+      links:
 
+
+        - title: 国家留学基金委公派留学项目
+          logo: https://i.ibb.co/tpgSjMWp/image.png
+          url: https://www.csc.edu.cn/article/3468
+          description: 2025公派博士后公告
+          
+        - title: 领英
+          logo: https://i.ibb.co/M1WnqfS/linkin.png
+          url: https://www.linkedin.com/login
+          description: 领英，找出国就业的机会
+        - title: indeed
+          logo: https://i.ibb.co/pzHm1Cy/indeed.png
+          url: https://www.indeed.com/
+          description: indeed
       
 - name: Ocean University of China
   icon: linecons-database
