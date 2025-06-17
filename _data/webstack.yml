@@ -125,9 +125,10 @@
       url: https://kd.nsfc.cn/
       description: 下载结题报告
 
-
-
-
+    - title: 青岛市生活补助申请
+      logo: https://i.ibb.co/RGd6PJt7/image.png
+      url: https://rc.qingdao.gov.cn/szfn/usercenter/apply
+      description: 申请青岛市给博士后的补贴
 
 
 - name: Certificate Acquisition
@@ -148,8 +149,8 @@
       
     - title: 法考报名网站
       logo: https://i.ibb.co/7JRfhr4M/image.png
-      url: https://www.moj.gov.cn/
-      description: 司法部
+      url: https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/
+      description: 司法部报名入口
 
     - title: 竹马 法考真题
       logo: https://i.ibb.co/9m11DQQ4/image.png
