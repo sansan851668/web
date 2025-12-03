@@ -18,8 +18,11 @@
     - title: 语雀
       logo: https://i.ibb.co/zVMGNPc7/image.png
       url: https://www.yuque.com/dashboard
-      description: 下载结题报告
-
+      description: 记录笔记
+    - title: 通义千问
+      logo: https://i.ibb.co/JR0B9ysV/d7247495afd1012e699e30cb292faf39.png
+      url: https://www.qianwen.com/
+      description: 科研相关知识
   
     - title: 中国知网
       logo: https://i.ibb.co/dB3Jp2C/image.png
@@ -474,6 +477,7 @@
       url: https://ccpt.neea.edu.cn/
       description: 在这里参加书法等级考试）
          
+
 
 
 
