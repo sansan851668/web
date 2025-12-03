@@ -237,6 +237,34 @@
           logo: https://i.ibb.co/LQVTftP/image.png
           url: http://www.stats.gov.cn/
           description: 国家统计局出具的报告  
+
+
+
+    - name: 专利检索
+      links:
+        - title: 国家知识产权局
+          url: https://www.cnipa.gov.cn/
+          logo: https://i.ibb.co/xjsKCnD/image.png
+          description: 国家知识产权局
+        - title: 谷歌专利
+          url: https://patents.google.com/
+          logo: https://i.ibb.co/g3K3DgX/image.png
+          description: 谷歌专利检索
+        - title: 专利信息服务平台
+          url: http://search.cnipr.com/
+          logo: https://i.ibb.co/SvjbJR4/image.png
+          description: 专利信息服务平台，这个也是国家的哦
+        - title: 佰腾网
+          url: https://www.baiten.cn/
+          logo: https://i.ibb.co/F342WxC/image.png
+          description: 需要注册，基本都能检索到  
+        - title: soopat
+          url: http://www2.soopat.com/home/iindex
+          logo: https://i.ibb.co/pjtThZB/soopat.png
+          description: 需注册     
+
+
+
           
 - name: 中文图书检索、PDZ转PDF
   icon: linecons-database
@@ -288,28 +316,7 @@
           logo: https://i.ibb.co/0hMMwLH/image.png
           description: 一个翻译平台，需要百度appid
 
-    - name: 专利检索
-      links:
-        - title: 国家知识产权局
-          url: https://www.cnipa.gov.cn/
-          logo: https://i.ibb.co/xjsKCnD/image.png
-          description: 国家知识产权局
-        - title: 谷歌专利
-          url: https://patents.google.com/
-          logo: https://i.ibb.co/g3K3DgX/image.png
-          description: 谷歌专利检索
-        - title: 专利信息服务平台
-          url: http://search.cnipr.com/
-          logo: https://i.ibb.co/SvjbJR4/image.png
-          description: 专利信息服务平台，这个也是国家的哦
-        - title: 佰腾网
-          url: https://www.baiten.cn/
-          logo: https://i.ibb.co/F342WxC/image.png
-          description: 需要注册，基本都能检索到  
-        - title: soopat
-          url: http://www2.soopat.com/home/iindex
-          logo: https://i.ibb.co/pjtThZB/soopat.png
-          description: 需注册             
+        
 
       
 - name: 软件编程
@@ -467,6 +474,7 @@
       url: https://ccpt.neea.edu.cn/
       description: 在这里参加书法等级考试）
          
+
 
 
 
