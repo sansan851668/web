@@ -1,6 +1,26 @@
 - name: 常用
   icon: linecons-star
   links:
+
+    - title: 飞书
+      logo: https://i.ibb.co/pvG9HzY/image.png
+      url: https://l0avwd4sg2.feishu.cn/drive/home/
+      description: 一个面向开源及私有软件项目的托管平台。
+    - title: overleaf
+      logo: https://i.ibb.co/FX0QmF0/OIP-C.jpg
+      url: https://www.overleaf.com/
+      description: 用来写手记，写实验记录均可  
+
+    - title: csdn 我的博客
+      logo: https://i.ibb.co/dsd3JmQn/CSDN.png
+      url: https://blog.csdn.net/sansan851668?type=blog
+      description: 下载结题报告
+    - title: 语雀
+      logo: https://i.ibb.co/zVMGNPc7/image.png
+      url: https://www.yuque.com/dashboard
+      description: 下载结题报告
+
+  
     - title: 中国知网
       logo: https://i.ibb.co/dB3Jp2C/image.png
       url: https://www.cnki.net/
@@ -54,20 +74,9 @@
       url: https://www.wikipedia.org/
       description: 百度查不到的知识点看这里~
 
-    - title: 飞书
-      logo: https://i.ibb.co/pvG9HzY/image.png
-      url: https://l0avwd4sg2.feishu.cn/drive/home/
-      description: 一个面向开源及私有软件项目的托管平台。
 
-    - title: overleaf
-      logo: https://i.ibb.co/FX0QmF0/OIP-C.jpg
-      url: https://www.overleaf.com/
-      description: 用来写手记，写实验记录均可  
 
-    - title: csdn 我的博客
-      logo: https://i.ibb.co/dsd3JmQn/CSDN.png
-      url: https://blog.csdn.net/sansan851668?type=blog
-      description: 下载结题报告
+
 
 
 
@@ -446,4 +455,5 @@
 
 
          
+
 
