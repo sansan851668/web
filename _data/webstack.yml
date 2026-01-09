@@ -142,7 +142,14 @@
       url: https://rc.qingdao.gov.cn/szfn/usercenter/apply
       description: 申请青岛市给博士后的补贴
 
+- name: Publishing a journal paper
+  icon: linecons-star
+  links:
 
+    - title: Journal of food engineering
+      logo: https://i.ibb.co/r2TxK5hW/968e0ab2dac27f0b9b328be3fb907c61.png
+      url: https://www.editorialmanager.com/jfoodeng/Default.aspx
+      description: 食品工程投稿页面
 
 
 
@@ -481,6 +488,7 @@
       url: https://ccpt.neea.edu.cn/
       description: 在这里参加书法等级考试）
          
+
 
 
 
