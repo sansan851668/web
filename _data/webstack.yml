@@ -279,11 +279,15 @@
     - title: 宝阳读书网1
       logo: https://i.ibb.co/Msk6rBF/image.png
       url:  https://www.boyanglee.com/home/index
-      description: 在超星阅读器中用打印功能打印成oxps 用该软件转化为pdf 
+      description: 查找各种格式的图书
     - title: 宝阳悦读网2
       logo: https://i.ibb.co/g9BXBq5/image.png
       url: https://www.mq59.com/
-      description: 在超星阅读器中用打印功能打印成oxps 用该软件转化为pdf     
+      description: 查找各种格式的图书
+    - title: 宝阳读书（补充书库）
+      logo: https://i.ibb.co/5g7K8dyT/0bfa4cc6dbe48e4f8a0b43e34bdf6164.png
+      url: https://www.mq59.com/index/search/pdf
+      description: 查找图书的pdf 
     - title: 搬书匠
       logo: https://i.ibb.co/D8sGzJ1/image.png
       url: http://www.banshujiang.cn/
@@ -477,6 +481,7 @@
       url: https://ccpt.neea.edu.cn/
       description: 在这里参加书法等级考试）
          
+
 
 
 
