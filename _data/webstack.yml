@@ -131,16 +131,21 @@
       logo: https://i.ibb.co/c1wrnKd/letpub.png
       url: https://www.letpub.com.cn/index.php?page=grant
       description: 在查询有哪些本领域内的基金 可单独检索青基
+
+    - title: 青岛市生活补助申请
+      logo: https://i.ibb.co/RGd6PJt7/image.png
+      url: https://rc.qingdao.gov.cn/szfn/usercenter/apply
+      description: 申请青岛市给博士后的补贴
       
     - title: 国家自然科学基金委大数据知识管理服务门户
       logo: https://i.ibb.co/YWthVNY/image.png
       url: https://kd.nsfc.cn/
       description: 下载结题报告
 
-    - title: 青岛市生活补助申请
-      logo: https://i.ibb.co/RGd6PJt7/image.png
-      url: https://rc.qingdao.gov.cn/szfn/usercenter/apply
-      description: 申请青岛市给博士后的补贴
+    - title: 赛特新思
+      logo: https://i.ibb.co/HDqbPdrY/image.jpg
+      url: https://www.citexs.com/nsfc
+      description: 需要会员
 
 - name: Publishing a journal paper
   icon: linecons-star
@@ -488,6 +493,7 @@
       url: https://ccpt.neea.edu.cn/
       description: 在这里参加书法等级考试）
          
+
 
 
 
