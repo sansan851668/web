@@ -19,6 +19,11 @@
       logo: https://i.ibb.co/zVMGNPc7/image.png
       url: https://www.yuque.com/dashboard
       description: 记录笔记
+
+    - title: claude
+      logo: https://i.ibb.co/HTrJ8frR/claude.png
+      url: https://claude.ai/new
+      description: 辅助写作
     - title: google gemini
       logo: https://i.ibb.co/9kgVvsJG/gemini.jpg
       url: https://gemini.google.com/app
