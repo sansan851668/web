@@ -20,6 +20,11 @@
       url: https://www.yuque.com/dashboard
       description: 记录笔记
 
+    - title: chatgpt
+      logo: https://i.ibb.co/vrhZnRW/Snipaste-2026-05-10-21-48-06.png
+      url: https://chatgpt.com/
+      description: 修改代码
+
     - title: claude
       logo: https://i.ibb.co/HTrJ8frR/claude.png
       url: https://claude.ai/new
