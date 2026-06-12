@@ -188,7 +188,12 @@
     - title: 中国海洋大学信息门户
       logo: https://i.ibb.co/HFP6rP2/0007019870654204-b.jpg
       url: https://my.ouc.edu.cn/
-      description: 关于学业的一切进这里 
+      description: 关于学业的一切进这里
+    - title: 中国海洋大学财务处
+      logo: https://i.ibb.co/bMHHZwZD/image.png
+      url: http://hdcw.ouc.edu.cn/
+      description: 学生劳务发放
+      
     - title: 中心实验室
       logo: https://i.ibb.co/Rp9PF3v/20230523160717.jpg
       url: http://180.201.194.8/cf/main/!equipments/equipment/index.36.reserv
